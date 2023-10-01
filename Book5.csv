@@ -1,0 +1,127 @@
+﻿name,cnname,Division,id,parentId,positionName,office
+CC Wei,,,O-6066,,CEO,
+Arthur Chuang,,,O-6067,O-6066,VP,
+CC Luo,,,O-6068,O-6066,VP,
+Chris Lin,,,O-6069,O-6066,VP,
+Chue San Yoo,,,O-6070,O-6066,VP,
+Doug Yu,,,O-6071,O-6066,VP,
+Geoffrey Yeap,,,O-6072,O-6066,VP,
+Jonathan Lee,,,O-6073,O-6066,VP,
+Jun He,,,O-6074,O-6066,VP,
+K.C. Hsu,,,O-6075,O-6066,VP,
+L.C. Lu,,,O-6076,O-6066,VP,
+Maria Marced,,,O-6077,O-6066,VP,
+Michael Wu,,,O-6078,O-6066,VP,
+Min Cao,,,O-6079,O-6066,VP,
+R.P. Chuang,,,O-6080,O-6066,VP,
+Simon Jang,,,O-6081,O-6066,VP,
+Sylvia Fang,,,O-6082,O-6066,VP,
+TS Chang,,,O-6083,O-6066,VP,
+Tsung Kuo,,,O-6084,O-6066,VP,
+Wendall Huang,,,O-6085,O-6066,VP,
+Y.H. Liaw,,,O-6086,O-6066,VP,
+Y.L. Wang,,,O-6087,O-6066,VP,
+Cliff Hou,,,O-6088,O-6066,SVP,
+Dave Keller,,,O-6089,O-6066,SVP,
+J.K. Lin,,,O-6090,O-6066,SVP,
+Kevin Zhang,,,O-6091,O-6066,SVP,
+Lora Ho,,,O-6092,O-6066,SVP,
+Makoto Onodera,,,O-6093,O-6066,SVP,
+Peter Cleveland,,,O-6094,O-6066,SVP,
+Rick Cassidy,,,O-6095,O-6066,SVP,
+Wei-Jen Lo,,,O-6096,O-6066,SVP,
+Y.J. Mii,,,O-6097,O-6066,SVP,
+Y.P. Chin,,,O-6098,O-6066,SVP,
+HW Fang,房漢文,ESHMD,O-6099,O-6067,Director,ESH
+Jui-Hua Ting,丁瑞華,FAC,O-6100,O-6067,Deputy Director,Facility Operations
+EDDY HUNG,洪永迪,FAC,O-6101,O-6067,Deputy Director,Facility Operations
+Tony Chen,陳鏘澤,FSO,O-6102,O-6067,​Technical Director,New Constructions
+Simon Zhang,,TSMC China,O-6103,O-6068,Deputy Director,Analog/Power/Speciality Technology R&D
+Yoyo Kong,孔玲,TSMC China,O-6104,O-6068,Deputy Director,Business Development
+Peter Chen,陳平,TSMC China,O-6105,O-6068,VP,Business Development and Operations
+Tsai Yung-Lin,蔡永霖,TSMC China,O-6106,O-6068,Deputy Director,Facility Operations
+Amy C.,陳敏,TSMC China,O-6107,O-6068,Director,FTS
+Even H.,韩晓峰,TSMC China,O-6108,O-6068,Deputy Director,FTS
+Daniel Yan,,TSMC China,O-6109,O-6068,Deputy Director,Legal Council
+Jay Chen,陈杰,TSMC China,O-6110,O-6068,Deputy Director,Operations
+JF Jeng,鄭吉峰,TSMC China,O-6111,O-6068,Director,Quality & Reliability
+M.Jay Chu,朱木傑,TSMC China,O-6112,O-6068,Deputy Director,Shanghai Operations
+Wenping Shen,沈文冰,AAID,O-6113,O-6069,Deputy Director,AI Application Integration Division
+Shou-Wen Chen,陈守文,AAID,O-6114,O-6069,Deputy Director,AI Application Integration Division
+Wilson Hsu,,BDAD,O-6115,O-6069,Director,Big Data Analytics Division
+Winnie Lu,盧玟如,BSID,O-6116,O-6069,Director,Business System Integration
+Harry Teng,,CIO Office,O-6117,O-6069,Deputy Director,CIO Office
+Drank Lin,林均彥,BSID,O-6118,O-6069,Deputy Director,Business System Integration
+Scott Y.,游志源,BSID,O-6119,O-6069,Deputy Director,Business System Integration
+Patrick Liu,劉培欣,ICSD,O-6120,O-6069,Deputy Director,Information Construction and Service
+Felix Wu,,ICSD ,O-6121,O-6069,Deputy Director,Information Construction and Service
+Li-Fan (John) Liang,,ISD,O-6122,O-6090,Director,Information Security
+YW Hsu,許映威,ITQS,O-6123,O-6090,Deputy Director,IT Quality and Security
+TE Lin,,ITQS,O-6124,O-6090,Deputy Director,IT Quality and Security
+Wen-Yao Chen,陳文耀,ITTD,O-6125,O-6069,Senior Director,Techincal system integration
+CH Wu,吳俊宏,TSID,O-6126,O-6069,Director,Techincal system integration
+Robert Chien,簡明正,TSID,O-6127,O-6069,Deputy Director,Techincal System Integration
+HC Hsieh,謝慧杰,TSID,O-6128,O-6069,Director,Techincal system integration
+Huiling Shang,尚慧玲 ,R&D,O-6129,O-6070,Techincal Director,Advanced CMOS R&D
+JH Chen,陳政宏,ALAD,O-6130,O-6070,Director,Advanced Litho Application Division
+Matt Yeh,叶明熙,R&D,O-6131,O-6070,Deputy Director,Advanced Technology
+DN Yang,楊敦年,CISRD,O-6132,O-6070,Director,CMOS Image Sensor R&D Division
+Donald Mikan,,AMDP,O-6133,O-6070,Director,High Speed Memory Design
+Calvin Yi-Ping Chao,趙亦平,MSRFRD,O-6134,O-6070,Deputy Director,Mixed Signal and RF Solution Division
+Ching-Yu Chang,张庆裕,NTD,O-6135,O-6070,Director,Nanopatterning Technology Division
+YJ Gu,辜耀進,NTD,O-6136,O-6070,Senior Director,Nanopatterning Technology Division
+Laurent Tuo,,NTD,O-6137,O-6070,Senior Director,Nanopatterning Technology Division
+Chewnpu Jou,周淳圤,R&D,O-6138,O-6070,Director ,SiPh R&D
+Vincent S. Chang,張世勳,R&D,O-6139,O-6070,Deputy director,Advanced Technology Research
+Yang Jeff ,楊富吉,R&D,O-6140,O-6070,Director,Advanced Technology Research
+FC Yang,楊豐誠,R&D,O-6141,O-6070,Deputy Director,Advanced Technology Research
+CC Tsai,蔡健群,R&D,O-6142,O-6070,Deputy Director,Advanced Technology Research
+Josh Wang,,R&D,O-6143,O-6070,Deputy Director,Advanced Technology Research
+Kevin Kao,,R&D,O-6144,O-6070,Deputy Director,Advanced Technology Research
+Chris Chern,陳其賢,Japan 3DIC R&D,O-6145,O-6071,Director,Japan 3DIC R&D
+Kinya Ichikawa,,Japan 3DIC R&D,O-6146,O-6071,Senior Director,Japan 3DIC R&D
+Yutong Wu,,R&D,O-6147,O-6071,Director,Pathfinding for System Integration
+Kuo-Chung Yee ,余國寵,R&D,O-6148,O-6071,Director ,Pathfinding/System Integration
+Chuei-Tang Wang,王垂堂,SIPRDD,O-6149,O-6071,Technical Director,Silicon in Package R&D
+MJ Lee,李明機,APIP,O-6150,O-6071,Director,System Integrations Pathfinding
+SS Lin,林學仕,N2PD,O-6151,O-6072,Director,"N2 Platform, Advanced Technology Development"
+PW Wang,王屏薇,N2PD,O-6152,O-6072,Deputy Director,"N2 Platform, Advanced Technology Development"
+MY Wang,王美勻,N2PD,O-6153,O-6072,Deputy Director,"N2 Platform, Advanced Technology Development"
+Peiren Jeng,鄭培仁,N2PD,O-6154,O-6072,Deputy Director,"N2 Platform, Advanced Technology Development"
+Chii-Ping Chen,陳啟平,N2PD,O-6155,O-6072,Deputy Director,"N2 Platform, Advanced Technology Development"
+Chien-Hao Chen,陳建豪,N2PD,O-6156,O-6072,Director,"N2 Platform, Advanced Technology Development"
+Will Hsu,,CPO,O-6157,O-6073,Deputy Director,Business Intelligence Solutions Division 
+Sharon (Shu-Lan) Ying,應淑蘭,BO,O-6158,O-6073,Director,Business Operations
+Eric Lin,,BO,O-6159,O-6073,Techincal Director,Business Operations
+TY Liu,,BO,O-6160,O-6073,Deputy Director,Business Operations
+Edwin Liou,,BPI,O-6161,O-6073,Director,Business Process Integration Division
+Jason Wang,,BPID,O-6162,O-6073,Director,Business Process Integration Division
+Candice Yu,,CPD,O-6163,O-6073,Deputy Director,Corporate Pricing Division
+Kevin TC,,CPD,O-6164,O-6073,Deputy Director,Corporate Pricing Division
+James Yang ,,ORP,O-6165,O-6073,Director,Operations Resources Planning
+Rick P.,,ORP,O-6166,O-6073,Deputy Director,Operations Resources Planning
+PE Chen,,PPD,O-6167,O-6073,Deputy Director,Production Planning
+Sean Ying,應士豪,SAFD,O-6168,O-6073,Deputy Director,Strategic Analysis and Forecast Division
+Eric T,,SPD,O-6169,O-6073,Deputy Director,Strategic Planning
+CW Wang,王仲文,,O-6170,O-6073,Director,Strategic Planning
+Yc Weng,,,O-6171,O-6073,Deputy Director,Strategic Planning
+Jiann Liu ,,CDOD,O-6172,O-6073,Deputy Director,Corporate Development Office
+Ami Eitan,,APTS,O-6173,O-6074,Director,Advanced Packaging Technology Division
+KC Liu,劉國州,APOD,O-6174,O-6074,Director,"Advanced Packaging, Operations"
+Hsuan lee,李瑄,APOD,O-6175,O-6074,Deputy Director,"Advanced Packaging, Operations"
+Lien WC,練文正,APOD,O-6176,O-6074,Director,"Advanced Packaging, Operations"
+CS Liu,劉重希,APOD,O-6177,O-6074,Director,"Advanced Packaging, Operations"
+KH Lee,李錦興,APOD,O-6178,O-6074,Senior Director,"Advanced Packaging, Operations"
+Macan Shen,沈志恒,APOD,O-6179,O-6074,Deputy Director,"Advanced Packaging, Operations"
+Jason Chien,簡忠信,APOD,O-6180,O-6074,Deputy Director,"Advanced Packaging, Operations"
+Kathy Yan,言偉,APOD,O-6181,O-6074,Director,"Advanced Packaging, Operations"
+Ching-Hui Chen,陈清晖,APOD,O-6182,O-6074,Deputy Director,"Advanced Packaging, Operations"
+Shin-Puu Jeng,鄭心圃,APTS NTM,O-6183,O-6074,Director,"Advanced Packaging, Technology"
+WA Wong,翁武安,SoIC Operations,O-6184,O-6074,Deputy Director,"Advanced Packaging, Operations"
+CH Chen,陳承先,SoIC Operations,O-6185,O-6074,Director,"Advanced Packaging, Operations"
+HW Lin,林胡偉,SoIC Operations,O-6186,O-6074,Deputy Director,"Advanced Packaging, Operations"
+WM Chen,陳文明,SoIC Operations,O-6187,O-6074,Deputy Director,"Advanced Packaging, Operations"
+"Paul, B.C. Chen",,SoIC Operations,O-6188,O-6074,Deputy Director,"Advanced Packaging, Operations"
+Shan Gao,高山,APTS,O-6189,O-6074,Director,"Advanced Packaging, Technology"
+Shan Gao,,APTS,O-6190,O-6074,Deputy Director,"Advanced Packaging, Technology"
+Dennis Yang,楊斐杰,TOPD,O-6191,O-6074,Director,"Advanced Testing, Operations"

@@ -106,29 +106,41 @@ Eric T,,SPD,O-6169,O-6073,Deputy Director,Strategic Planning
 CW Wang,王仲文,,O-6170,O-6073,Director,Strategic Planning
 Yc Weng,,,O-6171,O-6073,Deputy Director,Strategic Planning
 Jiann Liu ,,CDOD,O-6172,O-6073,Deputy Director,Corporate Development Office
-Ami Eitan,,APTS,O-6173,O-6074,Director,Advanced Packaging Technology Division
-KC Liu,劉國州,APOD,O-6174,O-6074,Director,"Advanced Packaging, Operations"
-Hsuan lee,李瑄,APOD,O-6175,O-6074,Deputy Director,"Advanced Packaging, Operations"
-Lien WC,練文正,APOD,O-6176,O-6074,Director,"Advanced Packaging, Operations"
-CS Liu,劉重希,APOD,O-6177,O-6074,Director,"Advanced Packaging, Operations"
-KH Lee,李錦興,APOD,O-6178,O-6074,Senior Director,"Advanced Packaging, Operations"
-Macan Shen,沈志恒,APOD,O-6179,O-6074,Deputy Director,"Advanced Packaging, Operations"
-Jason Chien,簡忠信,APOD,O-6180,O-6074,Deputy Director,"Advanced Packaging, Operations"
-Kathy Yan,言偉,APOD,O-6181,O-6074,Director,"Advanced Packaging, Operations"
-Ching-Hui Chen,陈清晖,APOD,O-6182,O-6074,Deputy Director,"Advanced Packaging, Operations"
-Shin-Puu Jeng,鄭心圃,APTS NTM,O-6183,O-6074,Director,"Advanced Packaging, Technology"
-WA Wong,翁武安,SoIC Operations,O-6184,O-6074,Deputy Director,"Advanced Packaging, Operations"
-CH Chen,陳承先,SoIC Operations,O-6185,O-6074,Director,"Advanced Packaging, Operations"
-HW Lin,林胡偉,SoIC Operations,O-6186,O-6074,Deputy Director,"Advanced Packaging, Operations"
-WM Chen,陳文明,SoIC Operations,O-6187,O-6074,Deputy Director,"Advanced Packaging, Operations"
-"Paul, B.C. Chen",,SoIC Operations,O-6188,O-6074,Deputy Director,"Advanced Packaging, Operations"
-Shan Gao,高山,APTS,O-6189,O-6074,Director,"Advanced Packaging, Technology"
-Shan Gao,,APTS,O-6190,O-6074,Deputy Director,"Advanced Packaging, Technology"
-Dennis Yang,楊斐杰,TOPD,O-6191,O-6074,Director,"Advanced Testing, Operations"
-Chingpin Lin,,BPQRD,O-6192,O-6074,Deputy Director,Backend Quality and Reliability Solutions
-Y Chang,張澐,QRFA,O-6193,O-6074,Director,QR and Failure Analysis
-YT Lin,林裕庭,QRFA,O-6194,O-6074,Deputy Director,QR and Failure Analysis
-WT Chien,簡維廷,Q&R,O-6195,O-6074,Director,QR and Failure Analysis
-B. Kiang,江浩然,QRQS,O-6196,O-6074,Director,Quality and Reliability Service Division
-Ting-Pu Tai,,TOPD,O-6197,O-6074,Director,Test Methodology Development Division 
-Chender Huang ,黃傳德,APTS,O-6198,O-6074,Deputy Director,Turnkey Service Division
+HP Pu,普翰屏,3DIC,O-6199,O-6075,Deputy Director,IIP
+JH Chen,陳俊宏,3DIC,O-6200,O-6075,Deputy Director,IIP
+Chih-Wei Jim Chang,,3DIC,O-6201,O-6075,Deputy Director,IIP
+Jonathan Yuan,,3DICDFM,O-6202,O-6075,Deputy Director,IIP
+Shang (yun) Hou,侯上勇,TSVINT,O-6203,O-6075,Deputy Director,IIP
+JH Shieh,謝志宏,TSVIP,O-6204,O-6075,Deputy Director,IIP
+Wen-Chih Chiou,邱文智,TSVIP,O-6205,O-6075,Director,IIP
+John Yeh,葉德強,TSVR&D,O-6206,O-6075,Deputy Director,IIP
+Frank JC Lee,,TSMC North America,O-6207,O-6075,VP,TSMC North America
+Alpha Chen,陳明發,TSV,O-6208,O-6075,Deputy Director,TSV3D integration program
+Xiangdong Chen,陈向东,ATRDD,O-6209,O-6076,Director,Advanced Transistor R&D
+Stefan Rusu,,ATRDD,O-6210,O-6076,Senior Director,Advanced Transistor R&D
+Florentin Dartu,,EDA R&D,O-6211,O-6076,Director,"Austin Design Center, TSMC North America"
+Eric Soenen,,MSD R&D,O-6212,O-6076,Director,"Austin Design Center, TSMC North America"
+Bryan Sheffield,,R&D,O-6213,O-6076,Director,"Austin Design Center, TSMC North America"
+Jesse Wang,,DTP,O-6214,O-6076,Director,Design Application and Engineering
+Dan Kochpatcharin,,DFM,O-6215,O-6076,Director,"Design Infrastructure Management; Head of Design, TSMC NA"
+Yi-Kan Cheng,郑仪侃,DMDD,O-6216,O-6076,Director,Design Methodology Development DTP
+Minchang Liang,梁銘彰,DP,O-6217,O-6076,Director,Design Platform
+CT Wu,吳建德,DirectorDM,O-6218,O-6076,Director,Design Rule DTP 
+Kuo-Ji Chen,陳國基,DSDA,O-6219,O-6076,Deputy Director,Design Service (I/O/ESD)
+Xuegang (Gordon) Dai,,DETD,O-6220,O-6076,Director,Design Solution Exploration & Tech Benchmarking Division
+Wen-Hao Chen ,陳文豪,DTP,O-6221,O-6076,Deputy Director,DFM
+Kumar Lalgudi,,DFMD,O-6222,O-6076,Senior Director,"Digital Design Methodology & Flow, TSMC North America"
+Lie-Szu Juang,張麗絲,DTP,O-6223,O-6076,Senior Director,DTP
+JJ Shih,施教仁,DTP,O-6224,O-6076,Deputy Directoru,DTP
+Keh-Jeng Chang,張克正,DTP R&D,O-6225,O-6076,Deputy Director,DTP
+Frank Lee,李雲漢,TSMC China,O-6226,O-6076,VP,DTP BD
+Jonathan Chang,張琮永,EMRDD,O-6227,O-6076,Senior Director,Embedded Memory R&D
+MS Song,宋明相,IOLD,O-6228,O-6076,Deputy Director,IO Library and Engineering DTP
+Takuya Yasui,安井卓也,Japan Design Center,O-6229,O-6076,Director,Japan Design Center
+Lj Tyan,田麗鈞,LDED,O-6230,O-6076,Director ,Layout Design Engineering DTP
+Koji Nii,,Japan Design Center,O-6231,O-6076,Director,Memory Soultion Japan Design Center
+Kenny Hsieh,謝正祥,MRSD,O-6232,O-6076,Deputy Director,Mixed Signal Solution Division
+Lluis Paris,,3DFabric Alliance,O-6233,O-6076,Senior Director,OIP
+Leon Chang,,OIP,O-6234,O-6076,Director,OIP PD
+James Q. Deng,,TSMC North America,O-6235,O-6076,Director,Physical Design and Development
+Jiann Tyng Tzeng,曾健庭,TMLD,O-6236,O-6076,Deputy Director,Technology/SPICE Modeling Division

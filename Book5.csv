@@ -1,37 +1,37 @@
 ﻿name,cnname,Division,id,parentId,positionName,office
 CC Wei,魏哲家,CEO,O-1102,,CEO,CEO
-Cliff Hou,侯永清,Europe & Asia Sales/CRO,O-1103,O-1102,Europe & Asia Sales/CRO,Europe & Asia Sales/CRO
-Kevin Zhang,張曉強,Business Development,O-1104,O-1102,Business Development,Business Development
-Y.J. Mii,米玉傑,Research & Development,O-1105,O-1102,Research & Development,Research & Development
-Wei-Jen Lo,羅唯仁,Research & Development,O-1106,O-1102,Research & Development,Research & Development
-Y.P. Chin,秦永沛,Operations,O-1107,O-1102,Operations,Operations
-J.K. Lin,林錦坤,Information Technology and Materials Management & Risk Management,O-1108,O-1102,Information Technology and Materials Management & Risk Management,Information Technology and Materials Management & Risk Management
-Lora Ho,何麗梅,Human Resources,O-1109,O-1102,Human Resources,Human Resources
-Rick Cassidy,,"Chairman, TSMC Arizona",O-1110,O-1102,"Chairman, TSMC Arizona","Chairman, TSMC Arizona"
-Simon Jang,章勳明,Advanced Tool and Module Development,O-1111,O-1106,Advanced Tool and Module Development,Advanced Tool and Module Development
-TS Chang,張宗生,Advanced Technology and Mask Engineering,O-1112,O-1107,Advanced Technology and Mask Engineering,Advanced Technology and Mask Engineering
-Min Cao,曹敏,Pathfinding,O-1113,O-1105,Pathfinding,Pathfinding
-Geoffrey Yeap,葉主輝,Platform Deveopment,O-1114,O-1105,Platform Deveopment,Platform Deveopment
-Michael Wu,吳顯揚,Platform Deveopment,O-1115,O-1105,Platform Deveopment,Platform Deveopment
-L.C. Lu,魯立忠,DTP,O-1116,O-1105,DTP,DTP
-Chue San Yoo,游秋山,More-than-Moore Technologies,O-1117,O-1106,More-than-Moore Technologies,More-than-Moore Technologies
-Doug Yu,余振華,Pathfinding for System Integration,O-1118,O-1105,Pathfinding for System Integration,Pathfinding for System Integration
-K.C. Hsu,徐國晉,Integrated Interconnect & Packaging R&D,O-1119,O-1107,Integrated Interconnect & Packaging R&D,Integrated Interconnect & Packaging R&D
-Jun He,何軍,Backend Operations/Quality and Reliability,O-1120,O-1107,Backend Operations/Quality and Reliability,Backend Operations/Quality and Reliability
-Tsung Kuo,,Wafertech,O-1121,O-1107,Wafertech,Wafertech
-Y.H. Liaw,廖永豪,Operations,O-1122,O-1107,Operations,Operations
-Y.L. Wang,王英郎,Operations,O-1123,O-1107,Operations,Operations
-CC Luo,羅鎮球,TSMC China,O-1124,O-1109,TSMC China,TSMC China
-R.P. Chuang,莊瑞萍,Operations,O-1125,O-1107,Operations,Operations
-Arthur Chuang,莊子壽,Facility,O-1126,O-1107,Facility,Facility
-Dave Keller,,TSMC North America,O-1127,O-1102,TSMC North America,TSMC North America
-Makoto Onodera,,TSMC Japan,O-1128,O-1102,TSMC Japan,TSMC Japan
-Peter Cleveland,,Government Relationship,O-1129,O-1102,Government Relationship,Government Relationship
-Maria Marced,,TSMC Europe,O-1130,O-1103,TSMC Europe,TSMC Europe
-Jonathan Lee,李俊賢,Corporate Planning Organization,O-1131,O-1108,Corporate Planning Organization,Corporate Planning Organization
-Chris Lin,林宏達,CIO,O-1132,O-1108,CIO,CIO
-Sylvia Fang,方淑華,Legal and General Counsel,O-1133,O-1102,Legal and General Counsel,Legal and General Counsel
-Wendall Huang,黃仁昭,CFO,O-1134,O-1102,CFO,CFO
+Cliff Hou,侯永清,Europe & Asia Sales/CRO,O-1103,O-1102,SVP,Europe & Asia Sales/CRO
+Kevin Zhang,張曉強,Business Development,O-1104,O-1102,SVP,Business Development
+Y.J. Mii,米玉傑,Research & Development,O-1105,O-1102,SVP,Research & Development
+Wei-Jen Lo,羅唯仁,Research & Development,O-1106,O-1102,SVP,Research & Development
+Y.P. Chin,秦永沛,Operations,O-1107,O-1102,SVP,Operations
+J.K. Lin,林錦坤,Information Technology and Materials Management & Risk Management,O-1108,O-1102,SVP,Information Technology and Materials Management & Risk Management
+Lora Ho,何麗梅,Human Resources,O-1109,O-1102,SVP,Human Resources
+Rick Cassidy,,"Chairman, TSMC Arizona",O-1110,O-1102,SVP,"Chairman, TSMC Arizona"
+Simon Jang,章勳明,Advanced Tool and Module Development,O-1111,O-1106,VP,Advanced Tool and Module Development
+TS Chang,張宗生,Advanced Technology and Mask Engineering,O-1112,O-1107,VP,Advanced Technology and Mask Engineering
+Min Cao,曹敏,Pathfinding,O-1113,O-1105,VP,Pathfinding
+Geoffrey Yeap,葉主輝,Platform Deveopment,O-1114,O-1105,VP,Platform Deveopment
+Michael Wu,吳顯揚,Platform Deveopment,O-1115,O-1105,VP,Platform Deveopment
+L.C. Lu,魯立忠,DTP,O-1116,O-1105,VP,DTP
+Chue San Yoo,游秋山,More-than-Moore Technologies,O-1117,O-1106,VP,More-than-Moore Technologies
+Doug Yu,余振華,Pathfinding for System Integration,O-1118,O-1105,VP,Pathfinding for System Integration
+K.C. Hsu,徐國晉,Integrated Interconnect & Packaging R&D,O-1119,O-1107,VP,Integrated Interconnect & Packaging R&D
+Jun He,何軍,Backend Operations/Quality and Reliability,O-1120,O-1107,VP,Backend Operations/Quality and Reliability
+Tsung Kuo,,Wafertech,O-1121,O-1107,VP,Wafertech
+Y.H. Liaw,廖永豪,Operations,O-1122,O-1107,VP,Operations
+Y.L. Wang,王英郎,Operations,O-1123,O-1107,VP,Operations
+CC Luo,羅鎮球,TSMC China,O-1124,O-1109,VP,TSMC China
+R.P. Chuang,莊瑞萍,Operations,O-1125,O-1107,VP,Operations
+Arthur Chuang,莊子壽,Facility,O-1126,O-1107,VP,Facility
+Dave Keller,,TSMC North America,O-1127,O-1102,VP,TSMC North America
+Makoto Onodera,,TSMC Japan,O-1128,O-1102,VP,TSMC Japan
+Peter Cleveland,,Government Relationship,O-1129,O-1102,VP,Government Relationship
+Maria Marced,,TSMC Europe,O-1130,O-1103,VP,TSMC Europe
+Jonathan Lee,李俊賢,Corporate Planning Organization,O-1131,O-1108,VP,Corporate Planning Organization
+Chris Lin,林宏達,CIO,O-1132,O-1108,VP,CIO
+Sylvia Fang,方淑華,Legal and General Counsel,O-1133,O-1102,VP,Legal and General Counsel
+Wendall Huang,黃仁昭,CFO,O-1134,O-1102,VP,CFO
 Lluis Paris,,3DFabric Alliance,O-1135,O-1116,Senior Director,OIP - 3DIC
 Christoph Heer ,,TSMC Europe,O-1136,O-1130,Senior Director,FTS
 Chien-Hsin Lee,李建興 ,BD,O-1137,O-1103,Senior Director,Automotive/Low Power/SiPh BD

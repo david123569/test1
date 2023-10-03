@@ -1,6 +1,5 @@
 ﻿name,cnname,Division,id,parentId,positionName,office
-Mark Liu,劉德音,Chairman,O-1101,,Chairman,Chairman
-CC Wei,魏哲家,CEO,O-1102,O-1101,CEO,CEO
+CC Wei,魏哲家,CEO,O-1102,,CEO,CEO
 Cliff Hou,侯永清,Europe & Asia Sales/CRO,O-1103,O-1102,Europe & Asia Sales/CRO,Europe & Asia Sales/CRO
 Kevin Zhang,張曉強,Business Development,O-1104,O-1102,Business Development,Business Development
 Y.J. Mii,米玉傑,Research & Development,O-1105,O-1102,Research & Development,Research & Development
@@ -432,8 +431,8 @@ MD Fan,范彧達,Fab12B,O-1530,O-1122,​Technical Director,"Fab12B, Operations"
 Clement Wann,,PE,O-1531,O-1122,​Technical Director,Product Engineering
 Li-Kong Turn,滕立功,Operations,O-1532,O-1107,​Technical Director,Operations
 Claire Sanderson,,GRD,O-1533,O-1129,Senior Director,Global Government Affairs
-Li-Fan Liang,梁立凡,Audit,O-1534,O-1101,Senior Director,Chief Audit Executive
-SF Kao,高雪菲,Corporate Ventures,O-1535,O-1101,Senior Director,Corporate Ventures
+Li-Fan Liang,梁立凡,Audit,O-1534,O-1102,Senior Director,Chief Audit Executive
+SF Kao,高雪菲,Corporate Ventures,O-1535,O-1102,Senior Director,Corporate Ventures
 Chao-Hsiung Wang,王昭雄,IPM,O-1536,O-1133,Director,IP Integrations
 Joseph D. ,杜維武,IPM,O-1537,O-1133,Director,IP Management
 CS Wang,王昭雄,IPM,O-1538,O-1133,Director,IP Management

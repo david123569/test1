@@ -1,14 +1,14 @@
 ﻿name,cnname,Division,id,parentId,positionName,office
 Mark Liu,劉德音,Chairman,O-1101,,Chairman,Chairman
 CC Wei,魏哲家,CEO,O-1102,O-1101,CEO,CEO
-Cliff Hou,侯永清,Europe & Asia Sales/CRO,O-1103,O-1101,Europe & Asia Sales/CRO,Europe & Asia Sales/CRO
-Kevin Zhang,張曉強,Business Development,O-1104,O-1101,Business Development,Business Development
-Y.J. Mii,米玉傑,Research & Development,O-1105,O-1101,Research & Development,Research & Development
-Wei-Jen Lo,羅唯仁,Research & Development,O-1106,O-1101,Research & Development,Research & Development
-Y.P. Chin,秦永沛,Operations,O-1107,O-1101,Operations,Operations
-J.K. Lin,林錦坤,Information Technology and Materials Management & Risk Management,O-1108,O-1101,Information Technology and Materials Management & Risk Management,Information Technology and Materials Management & Risk Management
-Lora Ho,何麗梅,Human Resources,O-1109,O-1101,Human Resources,Human Resources
-Rick Cassidy,,"Chairman, TSMC Arizona",O-1110,O-1101,"Chairman, TSMC Arizona","Chairman, TSMC Arizona"
+Cliff Hou,侯永清,Europe & Asia Sales/CRO,O-1103,O-1102,Europe & Asia Sales/CRO,Europe & Asia Sales/CRO
+Kevin Zhang,張曉強,Business Development,O-1104,O-1102,Business Development,Business Development
+Y.J. Mii,米玉傑,Research & Development,O-1105,O-1102,Research & Development,Research & Development
+Wei-Jen Lo,羅唯仁,Research & Development,O-1106,O-1102,Research & Development,Research & Development
+Y.P. Chin,秦永沛,Operations,O-1107,O-1102,Operations,Operations
+J.K. Lin,林錦坤,Information Technology and Materials Management & Risk Management,O-1108,O-1102,Information Technology and Materials Management & Risk Management,Information Technology and Materials Management & Risk Management
+Lora Ho,何麗梅,Human Resources,O-1109,O-1102,Human Resources,Human Resources
+Rick Cassidy,,"Chairman, TSMC Arizona",O-1110,O-1102,"Chairman, TSMC Arizona","Chairman, TSMC Arizona"
 Simon Jang,章勳明,Advanced Tool and Module Development,O-1111,O-1106,Advanced Tool and Module Development,Advanced Tool and Module Development
 TS Chang,張宗生,Advanced Technology and Mask Engineering,O-1112,O-1107,Advanced Technology and Mask Engineering,Advanced Technology and Mask Engineering
 Min Cao,曹敏,Pathfinding,O-1113,O-1105,Pathfinding,Pathfinding

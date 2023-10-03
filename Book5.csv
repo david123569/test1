@@ -1,425 +1,446 @@
 ﻿name,cnname,Division,id,parentId,positionName,office
-CC Wei,魏哲家,,O-6066,,CEO,
-Arthur Chuang,莊子壽,Facility,O-6067,O-6098,VP,Facility
-CC Luo,羅鎮球,TSMC China,O-6068,O-6092,VP,TSMC China
-Chris Lin,林宏達,CIO,O-6069,O-6090,VP,CIO
-Chue San Yoo,游秋山,More-than-Moore Technologies,O-6070,O-6097,VP,More-than-Moore Technologies
-Doug Yu,余振華,Pathfinding for System Integration,O-6071,O-6097,VP,Pathfinding for System Integration
-Geoffrey Yeap,葉主輝,Platform Deveopment,O-6072,O-6097,VP,Platform Deveopment
-Jonathan Lee,李俊賢,Corporate Planning Organization,O-6073,O-6090,VP,Corporate Planning Organization
-Jun He,何軍,Backend Operations/Quality and Reliability,O-6074,O-6098,VP,Backend Operations/Quality and Reliability
-K.C. Hsu,徐國晉,Integrated Interconnect & Packaging R&D,O-6075,O-6097,VP,Integrated Interconnect & Packaging R&D
-L.C. Lu,魯立忠,DTP,O-6076,O-6088,VP,DTP
-Maria Marced,,TSMC Europe,O-6077,O-6066,VP,TSMC Europe
-Michael Wu,吳顯揚,Platform Deveopment,O-6078,O-6066,VP,Platform Deveopment
-Min Cao,曹敏,Pathfinding,O-6079,O-6066,VP,Pathfinding
-R.P. Chuang,莊瑞萍,Operations,O-6080,O-6098,VP,Operations
-Simon Jang,,Advanced Tool and Module Development,O-6081,O-6096,VP,Advanced Tool and Module Development
-Sylvia Fang,方淑華,Legal and General Counsel,O-6082,O-6066,VP,Legal and General Counsel
-TS Chang,張宗生,Advanced Technology and Mask Engineering,O-6083,O-6098,VP,Advanced Technology and Mask Engineering
-Tsung Kuo,,Wafertech,O-6084,O-6098,VP,Wafertech
-Wendall Huang,黃仁昭,CFO,O-6085,O-6066,VP,CFO
-Y.H. Liaw,廖永豪,Operations,O-6086,O-6098,VP,Operations
-Y.L. Wang,王英郎,Operations,O-6087,O-6095,VP,Operations
-Cliff Hou,侯永清,Europe & Asia Sales/CRO,O-6088,O-6066,SVP,Europe & Asia Sales/CRO
-Dave Keller,,TSMC North America,O-6089,O-6066,SVP,TSMC North America
-J.K. Lin,林錦坤,Information Technology and Materials Management & Risk Management,O-6090,O-6066,SVP,Information Technology and Materials Management & Risk Management
-Kevin Zhang,張曉強,Business Development,O-6091,O-6066,SVP,Business Development
-Lora Ho,何麗梅,Human Resources,O-6092,O-6066,SVP,Human Resources
-Makoto Onodera,,TSMC Japan,O-6093,O-6066,SVP,TSMC Japan
-Peter Cleveland,,Government Relationship,O-6094,O-6066,SVP,Government Relationship
-Rick Cassidy,,"Chairman, TSMC Arizona",O-6095,O-6066,SVP,"Chairman, TSMC Arizona"
-Wei-Jen Lo,羅唯仁,Research & Development,O-6096,O-6066,SVP,Research & Development
-Y.J. Mii,米玉傑,Research & Development,O-6097,O-6066,SVP,Research & Development
-Y.P. Chin,秦永沛,Operations,O-6098,O-6066,SVP,Operations
-HW Fang,房漢文,ESHMD,O-6099,O-6067,Director,ESH
-Jui-Hua Ting,丁瑞華,FAC,O-6100,O-6067,Deputy Director,Facility Operations
-EDDY HUNG,洪永迪,FAC,O-6101,O-6067,Deputy Director,Facility Operations
-Tony Chen,陳鏘澤,FSO,O-6102,O-6067,​Technical Director,New Constructions
-Simon Zhang,,TSMC China,O-6103,O-6068,Deputy Director,Analog/Power/Speciality Technology R&D
-Yoyo Kong,孔玲,TSMC China,O-6104,O-6068,Deputy Director,Business Development
-Peter Chen,陳平,TSMC China,O-6105,O-6068,VP,Business Development and Operations
-Tsai Yung-Lin,蔡永霖,TSMC China,O-6106,O-6068,Deputy Director,Facility Operations
-Amy C.,陳敏,TSMC China,O-6107,O-6068,Director,FTS
-Even H.,韩晓峰,TSMC China,O-6108,O-6068,Deputy Director,FTS
-Daniel Yan,,TSMC China,O-6109,O-6068,Deputy Director,Legal Council
-Jay Chen,陈杰,TSMC China,O-6110,O-6068,Deputy Director,Operations
-JF Jeng,鄭吉峰,TSMC China,O-6111,O-6068,Director,Quality & Reliability
-M.Jay Chu,朱木傑,TSMC China,O-6112,O-6068,Deputy Director,Shanghai Operations
-Wenping Shen,沈文冰,AAID,O-6113,O-6069,Deputy Director,AI Application Integration Division
-Shou-Wen Chen,陈守文,AAID,O-6114,O-6069,Deputy Director,AI Application Integration Division
-Wilson Hsu,,BDAD,O-6115,O-6069,Director,Big Data Analytics Division
-Winnie Lu,盧玟如,BSID,O-6116,O-6069,Director,Business System Integration
-Harry Teng,,CIO Office,O-6117,O-6090,Deputy Director,CIO Office
-Drank Lin,林均彥,BSID,O-6118,O-6069,Deputy Director,Business System Integration
-Scott Y.,游志源,BSID,O-6119,O-6069,Deputy Director,Business System Integration
-Patrick Liu,劉培欣,ICSD,O-6120,O-6069,Deputy Director,Information Construction and Service
-Felix Wu,,ICSD ,O-6121,O-6069,Deputy Director,Information Construction and Service
-Li-Fan (John) Liang,,ISD,O-6122,O-6090,Director,Information Security
-YW Hsu,許映威,ITQS,O-6123,O-6090,Deputy Director,IT Quality and Security
-TE Lin,,ITQS,O-6124,O-6090,Deputy Director,IT Quality and Security
-Wen-Yao Chen,陳文耀,ITTD,O-6125,O-6069,Senior Director,Techincal system integration
-CH Wu,吳俊宏,TSID,O-6126,O-6069,Director,Techincal system integration
-Robert Chien,簡明正,TSID,O-6127,O-6069,Deputy Director,Techincal System Integration
-HC Hsieh,謝慧杰,TSID,O-6128,O-6069,Director,Techincal system integration
-Huiling Shang,尚慧玲 ,R&D,O-6129,O-6070,Techincal Director,Advanced CMOS R&D
-JH Chen,陳政宏,ALAD,O-6130,O-6070,Director,Advanced Litho Application Division
-Matt Yeh,叶明熙,R&D,O-6131,O-6070,Deputy Director,Advanced Technology
-DN Yang,楊敦年,CISRD,O-6132,O-6070,Director,CMOS Image Sensor R&D Division
-Donald Mikan,,AMDP,O-6133,O-6070,Director,High Speed Memory Design
-Calvin Yi-Ping Chao,趙亦平,MSRFRD,O-6134,O-6070,Deputy Director,Mixed Signal and RF Solution Division
-Ching-Yu Chang,张庆裕,NTD,O-6135,O-6070,Director,Nanopatterning Technology Division
-YJ Gu,辜耀進,NTD,O-6136,O-6070,Senior Director,Nanopatterning Technology Division
-Laurent Tuo,,NTD,O-6137,O-6070,Senior Director,Nanopatterning Technology Division
-Chewnpu Jou,周淳圤,R&D,O-6138,O-6070,Director ,SiPh R&D
-Vincent S. Chang,張世勳,R&D,O-6139,O-6070,Deputy director,Advanced Technology Research
-Yang Jeff ,楊富吉,R&D,O-6140,O-6070,Director,Advanced Technology Research
-FC Yang,楊豐誠,R&D,O-6141,O-6070,Deputy Director,Advanced Technology Research
-CC Tsai,蔡健群,R&D,O-6142,O-6070,Deputy Director,Advanced Technology Research
-Josh Wang,,R&D,O-6143,O-6070,Deputy Director,Advanced Technology Research
-Kevin Kao,,R&D,O-6144,O-6070,Deputy Director,Advanced Technology Research
-Chris Chern,陳其賢,Japan 3DIC R&D,O-6145,O-6071,Director,Japan 3DIC R&D
-Kinya Ichikawa,,Japan 3DIC R&D,O-6146,O-6071,Senior Director,Japan 3DIC R&D
-Yutong Wu,,R&D,O-6147,O-6071,Director,Pathfinding for System Integration
-Kuo-Chung Yee ,余國寵,R&D,O-6148,O-6071,Director ,Pathfinding/System Integration
-Chuei-Tang Wang,王垂堂,SIPRDD,O-6149,O-6071,Technical Director,Silicon in Package R&D
-MJ Lee,李明機,APIP,O-6150,O-6071,Director,System Integrations Pathfinding
-SS Lin,林學仕,N2PD,O-6151,O-6072,Director,"N2 Platform, Advanced Technology Development"
-PW Wang,王屏薇,N2PD,O-6152,O-6072,Deputy Director,"N2 Platform, Advanced Technology Development"
-MY Wang,王美勻,N2PD,O-6153,O-6072,Deputy Director,"N2 Platform, Advanced Technology Development"
-Peiren Jeng,鄭培仁,N2PD,O-6154,O-6072,Deputy Director,"N2 Platform, Advanced Technology Development"
-Chii-Ping Chen,陳啟平,N2PD,O-6155,O-6072,Deputy Director,"N2 Platform, Advanced Technology Development"
-Chien-Hao Chen,陳建豪,N2PD,O-6156,O-6072,Director,"N2 Platform, Advanced Technology Development"
-Will Hsu,,CPO,O-6157,O-6073,Deputy Director,Business Intelligence Solutions Division 
-Sharon (Shu-Lan) Ying,應淑蘭,BO,O-6158,O-6073,Director,Business Operations
-Eric Lin,,BO,O-6159,O-6073,Techincal Director,Business Operations
-TY Liu,,BO,O-6160,O-6073,Deputy Director,Business Operations
-Edwin Liou,,BPI,O-6161,O-6073,Director,Business Process Integration Division
-Jason Wang,,BPID,O-6162,O-6073,Director,Business Process Integration Division
-Candice Yu,,CPD,O-6163,O-6073,Deputy Director,Corporate Pricing Division
-Kevin TC,,CPD,O-6164,O-6073,Deputy Director,Corporate Pricing Division
-James Yang ,,ORP,O-6165,O-6073,Director,Operations Resources Planning
-Rick P.,,ORP,O-6166,O-6073,Deputy Director,Operations Resources Planning
-PE Chen,,PPD,O-6167,O-6073,Deputy Director,Production Planning
-Sean Ying,應士豪,SAFD,O-6168,O-6073,Deputy Director,Strategic Analysis and Forecast Division
-Eric T,,SPD,O-6169,O-6073,Deputy Director,Strategic Planning
-CW Wang,王仲文,,O-6170,O-6073,Director,Strategic Planning
-Yc Weng,,,O-6171,O-6073,Deputy Director,Strategic Planning
-Jiann Liu ,,CDOD,O-6172,O-6073,Deputy Director,Corporate Development Office
-HP Pu,普翰屏,3DIC,O-6199,O-6075,Deputy Director,IIP
-JH Chen,陳俊宏,3DIC,O-6200,O-6075,Deputy Director,IIP
-Chih-Wei Jim Chang,,3DIC,O-6201,O-6075,Deputy Director,IIP
-Jonathan Yuan,,3DICDFM,O-6202,O-6075,Deputy Director,IIP
-Shang (yun) Hou,侯上勇,TSVINT,O-6203,O-6075,Deputy Director,IIP
-JH Shieh,謝志宏,TSVIP,O-6204,O-6075,Deputy Director,IIP
-Wen-Chih Chiou,邱文智,TSVIP,O-6205,O-6075,Director,IIP
-John Yeh,葉德強,TSVR&D,O-6206,O-6075,Deputy Director,IIP
-Frank JC Lee,,TSMC North America,O-6207,O-6075,VP,TSMC North America
-Alpha Chen,陳明發,TSV,O-6208,O-6075,Deputy Director,TSV3D integration program
-Xiangdong Chen,陈向东,ATRDD,O-6209,O-6076,Director,Advanced Transistor R&D
-Stefan Rusu,,ATRDD,O-6210,O-6076,Senior Director,Advanced Transistor R&D
-Florentin Dartu,,EDA R&D,O-6211,O-6076,Director,"Austin Design Center, TSMC North America"
-Eric Soenen,,MSD R&D,O-6212,O-6076,Director,"Austin Design Center, TSMC North America"
-Bryan Sheffield,,R&D,O-6213,O-6076,Director,"Austin Design Center, TSMC North America"
-Jesse Wang,,DTP,O-6214,O-6076,Director,Design Application and Engineering
-Dan Kochpatcharin,,DFM,O-6215,O-6076,Director,"Design Infrastructure Management; Head of Design, TSMC NA"
-Yi-Kan Cheng,郑仪侃,DMDD,O-6216,O-6076,Director,Design Methodology Development DTP
-Minchang Liang,梁銘彰,DP,O-6217,O-6076,Director,Design Platform
-CT Wu,吳建德,DirectorDM,O-6218,O-6076,Director,Design Rule DTP 
-Kuo-Ji Chen,陳國基,DSDA,O-6219,O-6076,Deputy Director,Design Service (I/O/ESD)
-Xuegang (Gordon) Dai,,DETD,O-6220,O-6076,Director,Design Solution Exploration & Tech Benchmarking Division
-Wen-Hao Chen ,陳文豪,DTP,O-6221,O-6076,Deputy Director,DFM
-Kumar Lalgudi,,DFMD,O-6222,O-6076,Senior Director,"Digital Design Methodology & Flow, TSMC North America"
-Lie-Szu Juang,張麗絲,DTP,O-6223,O-6076,Senior Director,
-JJ Shih,施教仁,DTP,O-6224,O-6076,Deputy Directoru,
-Keh-Jeng Chang,張克正,DTP R&D,O-6225,O-6076,Deputy Director,
-Frank Lee,李雲漢,TSMC China,O-6226,O-6076,VP,
-Jonathan Chang,張琮永,EMRDD,O-6227,O-6076,Senior Director,
-MS Song,宋明相,IOLD,O-6228,O-6076,Deputy Director,
-Takuya Yasui,安井卓也,Japan Design Center,O-6229,O-6076,Director,
-Lj Tyan,田麗鈞,LDED,O-6230,O-6076,Director ,
-Koji Nii,,Japan Design Center,O-6231,O-6076,Director,
-Kenny Hsieh,謝正祥,MRSD,O-6232,O-6076,Deputy Director,
-Lluis Paris,,3DFabric Alliance,O-6233,O-6076,Senior Director,
-Leon Chang,,OIP,O-6234,O-6076,Director,
-James Q. Deng,,TSMC North America,O-6235,O-6076,Director,
-Jiann Tyng Tzeng,曾健庭,TMLD,O-6236,O-6076,Deputy Director,
-Kees Joosse,,TSMC Europe,O-6237,O-6077,Director,
-Frans Lux,,TSMC Europe,O-6238,O-6077,Director,
-Hennie de Weerd,,TSMC Europe,O-6239,O-6077,Director,
-Jaap Zondag,,TSMC Europe,O-6240,O-6077,Director,
-Mark van Dal,,TSMC Europe,O-6241,O-6077,Deputy Director,
-Weishi Sun,,TSMC Europe,O-6242,O-6077,Director,
-Brian Lin,,TSMC Europe,O-6243,O-6077,Deputy Director,
-Jhon Jhy Liaw,廖忠志,N1.4PD,O-6244,O-6078,Director,"N1.4 Platform, Advanced Technology Development"
-Danny Chiang,江木吉,N1.4PD,O-6245,O-6078,Director,"N1.4 Platform, Advanced Technology Development"
-JengYa Yeh,葉震亞,N1.4PD,O-6246,O-6078,Deputy Director,"N1.4 Platform, Advanced Technology Development"
-Chih-Hao Chang,張志豪,N3PD,O-6247,O-6078,Director,N3 Platform Development
-Chung-Cheng Wu,吳忠政,R&D,O-6248,O-6079,Deputy Director,Pathfinding
-Sandy Liao,廖思雅,R&D,O-6249,O-6079,Director,Pathfinding
-CT Lin,林仲德,R&D,O-6250,O-6079,Director,Pathfinding
-Yu-ming Lin ,林有铭,R&D,O-6251,O-6079,Director,Pathfinding
-Lu Yang,楊露,R&D,O-6252,O-6079,Deputy Director,Pathfinding
-KC Chiang,江國誠 ,R&D,O-6253,O-6079,Deputy Director,Pathfinding
-CH Wang,王志豪,R&D,O-6254,O-6079,Director,Pathfinding
-Clement Wann,萬幸仁,R&D,O-6255,O-6079,Technical Director,Pathfinding
-Jin Cai,蔡劲,R&D,O-6256,O-6079,Director,Pathfinding
-James Chen,陳燕銘,R&D,O-6257,O-6079,Director,Pathfinding
-KW Chen,陳科維,R&D,O-6258,O-6079,Deputy Director,Pathfinding
-KB Thei,鄭光茗,R&D ,O-6259,O-6079,Deputy Director,Pathfinding
-Pinyen Lin,林斌彥,R&D,O-6260,O-6079,Deputy Director,"Pathfinding, Advanced CMOS Technology"
-Yee-Chia Yeo,楊育佳,R&D,O-6261,O-6079,Director,"Pathfinding, Advanced Module"
-Jason Liu,劉輝堂,Fab14A,O-6262,O-6080,Deputy Director,"Fab14A, Operations"
-JS Lu,呂金盛 ,Fab14A,O-6263,O-6080,Director,"Fab14A, Operations"
-YY Lee,李曜宇,Fab14A,O-6264,O-6080,Director,"Fab14A, Operations"
-YY Lee,李衍儀,Fab14A,O-6265,O-6080,Deputy Director,"Fab14A, Operations"
-HJ Chen,陳信吉,Fab14A,O-6266,O-6080,Director,"Fab14A, Operations"
-Yih-Yi Lee,,Fab14A,O-6267,O-6080,Deputy Directoru,"Fab14A, Operations"
-HD Yang,楊懷德,Fab14B,O-6268,O-6080,Director,"Fab14B, Operations"
-Ting-Chun Wang,王廷君,Fab14B,O-6269,O-6080,Deputy Director,"Fab14B, Operations"
-CH Su,蘇慶煌,Fab14B,O-6270,O-6080,Director,"Fab14B, Operations"
-SA Wu,吳斯安,Fab15A,O-6271,O-6080,Director,"Fab15A, Operations"
-Wei Zhang,張偉,Fab15B,O-6272,O-6080,Director,"Fab15B, Operations"
-BJ Su,蘇斌嘉,Fab15B,O-6273,O-6080,Director,"Fab15B, Operations"
-Cheng HR,鄭祥瑞,Fab15B,O-6274,O-6080,Deputy Director,"Fab15B, Operations"
-CK Huang,,Fab15B,O-6275,O-6080,Deputy Director,"Fab15B, Operations"
-Yu ching Wang,王育青,Fab18A,O-6276,O-6080,Deputy Director,"Fab18A, Operations"
-Ray Zhuang,莊瑞萍,Fab18A,O-6277,O-6080,Senior Director,"Fab18A, Operations"
-BC Cheng,鄭博中,Fab18A,O-6278,O-6080,Techincal Director,"Fab18A, Operations"
-MC Chang,張銘慶,Fab18B,O-6279,O-6080,Deputy Director,"Fab18B, Operations"
-HC Lin,林煥哲,Fab18B,O-6280,O-6080,Deputy Director,"Fab18B, Operations"
-CC Chen,陳昭成,Fab18B,O-6281,O-6080,Techincal Director,"Fab18B, Operations"
-YG Huang,黃遠國,Fab18B,O-6282,O-6080,Director,"Fab18B, Operations"
-YJ Wang,汪業傑,IMC,O-6283,O-6080,Director,Intelligent Manufacturing Center
-Mao-Chih Huang,黃楙智,IMC,O-6284,O-6080,Deputy Director,Intelligent Manufacturing Center
-YF Huang,黃裕峰,IMC,O-6285,O-6080,Director,Intelligent Manufacturing Center
-Chao-Cheng Chen,陈昭成,ATMD,O-6286,O-6081,Director,Advanced Module Process Development 
-Sey-Ping Sun,孙诗平,ATMD,O-6287,O-6081,Deputy Director,Advanced Tool and Module Development
-James Cui,崔骥,ATMD,O-6288,O-6081,Deputy Director,Advanced Tool and Module Development
-Huicheng Chang,張惠政,ATMD,O-6289,O-6081,Deputy Director,Advanced Tool and Module Development
-Chi On Chui,徐志安,ATMD,O-6290,O-6081,Deputy Director,Advanced Tool and Module Development
-Chi-On Chui,徐志安,ATMD,O-6291,O-6081,Director,Advanced Tool and Module Development
-SL Pan,潘昇良,ATMD,O-6292,O-6081,Deputy Director,Advanced Tool and Module Development
-Hung Chen,陳宏,ATMD,O-6293,O-6081,Deputy Director,Advanced Tool and Module Development
-Wen-Yu Ku,顧文昱,ATMD,O-6294,O-6081,Deputy Director,Advanced Tool and Module Development - Advanced Metrology/MIE
-Ryan Chen,陳嘉仁,ATMD,O-6295,O-6081,Director,Advanced Tool and Module Development - Etching
-Ming-Hsien Tsai,蔡銘憲,ATMD,O-6296,O-6081,Director,Advanced Tool and Module Development - Metal
-Danping Peng,彭丹平,ATMD,O-6297,O-6081,Director,Advanced Tool and Module Development - Metrology
-K. B. Huang,黃國賓,ATMD,O-6298,O-6081,Deputy Director,Advanced Tool and Module Development - Wet Clean
-KB Huang,黃國賓,ATMD,O-6299,O-6081,Deputy Director,Advanced Tool and Module Development - Wet Clean
-Bi-Ming Yen,嚴必明,RDPC,O-6300,O-6081,Deputy Director,R&D Process Center
-Jason Mou,牟中一,RDPC,O-6301,O-6081,Deputy Director,R&D Process Center
-Xiaomeng Chen,陈晓萌,SMYED,O-6302,O-6081,Director,Specialty Module and Yield Excellence
-Julian Lee,,SMD,O-6303,O-6081,Director,Specialty Module R&D Division
-Steven Schulman,,TSMC North America,O-6304,O-6089,Director,Business Infrastructure Legal Division
-Kiyohisa Kamekawa,,TSMC Japan,O-6305,O-6093,Deputy Director,"Corporate Legal Concil, Japan"
-Chao-Hsiung Wang,王昭雄,IPM,O-6306,O-6082,Director,IP Integrations
-Joseph D. ,杜維武,IPM,O-6307,O-6082,Director,IP Management
-CS Wang,王昭雄,IPM,O-6308,O-6082,Director,IP Management
-T.C. Morris Cheng,鄭子俊,C&C,O-6309,O-6082,Director,"Legal, Corporate & Compliance "
-Michael Shen,沈名揚,Legal Council,O-6310,O-6082,Director,Patent Litigation
-John Lin,林進祥,ALAD,O-6311,O-6083,Director,Advanced Litho Application Division
-CHUN CHENG HUNG,,ATME,O-6312,O-6083,Director,Advanced Technology and Mask Engineering
-Hsiao-Chin Tuan,段孝勤,APSTD,O-6313,O-6083,Senior Director,Analog Power Specialty Technology Development
-KAZUAKI HASHIMOTO,,TSMC Japan,O-6314,O-6083,Director,CMOS Image Sensor Division
-TY Chang,張宗裕,EBOD,O-6315,O-6083,Deputy Director,Electron Beam Operations
-Wen-Hao Cheng,鄭文豪,EBOD,O-6316,O-6083,Deputy Director,Electron Beam Operations
-Vincent Lee,,EBOD,O-6317,O-6083,Deputy Director,Electron Beam Operations
-Jingwei Zhang,张静维,TSMC North America,O-6318,O-6083,Deputy Director,"RF, Analog and Sensor Division"
-Kejun Xia,夏克俊,STPD,O-6319,O-6083,Deputy Director,Special Technology Product Development
-Jerry Chen,陳枝城,ULLPD,O-6320,O-6083,Director,ULL Platform Development
-Stock Chang,,,O-6321,O-6083,Director,
-Wayne Yeh,,Wafertech,O-6322,O-6084,Director,Operations
-Weidong Jiang,,Wafertech,O-6323,O-6084,Director,Product Engineering And Customer Services Engineering
-Swen Wang,,Wafertech,O-6324,O-6084,Deputy Director,Quality & Reliability
-Mingli Weng,,FIN,O-6325,O-6085,Director,Accounting Division
-CK Su,蘇志凱,IR,O-6326,O-6085,Director,Investor Relationship
-SY Lin,林生元,Fab12A,O-6327,O-6086,Director,"Fab12A, Operations"
-Frankie Tsai,蔡飛國,Fab12A,O-6328,O-6086,Director,"Fab12A, Operations"
-YL Hsu,許永隆,Fab12A,O-6329,O-6086,Director,"Fab12A, Operations"
-JL Huang,黃玠霖,Fab12A,O-6330,O-6086,Deputy Director,"Fab12A, Operations"
-FJ Tien,田博仁,Fab12A,O-6331,O-6086,Director,"Fab12B, Operations"
-Jen Hsiang Lu,呂禎祥,Fab12B,O-6332,O-6086,Technical Director,"Fab12B, Operations"
-MD Fan,范彧達,Fab12B,O-6333,O-6086,Technical Director,"Fab12B, Operations"
-CC Chien,簡正忠,Fab2/5,O-6334,O-6086,Director,"Fab2/5, Operations"
-SH Chen,陳世雄,Fab6,O-6335,O-6086,Director,"Fab6, Operations"
-JK Wang,王錦焜,Fab8,O-6336,O-6086,Director,"Fab8, Operations"
-Hiromi Hayashida,,JASM,O-6337,O-6086,Director,HR
-Joe Wu,吳宗禧,NMC,O-6338,O-6086,Deputy Director,Nano-Materials Center
-MT Chen,陳明德,NMC,O-6339,O-6086,Director,Nano-Materials Center
-Tse-En Chang,張澤恩,PED,O-6340,O-6086,Director,"Product Development, Operations"
-Ry Shiue,薛瑞雲,PED,O-6341,O-6086,Director,"Product Development, Operations"
-Alfred JY Lai,賴俊宇,PED,O-6342,O-6086,Deputy Director,"Product Development, Operations"
-WJ Lin,林偉睿,PE,O-6343,O-6086,Director,Product Engineering
-Clement Wann,,PE,O-6344,O-6086,Technical Director,Product Engineering
-Alishar Tamrakar,,Fab21,O-6345,O-6087,Senior Director,Business Management
-Tambo Treks,,Fab21,O-6346,O-6087,Senior Director,Business Management
-Camille Ashley,,Fab21,O-6347,O-6087,Senior Director,"Business Management, AZ"
-Greg Jackson,,Fab21,O-6348,O-6087,Director,Facility Operations
-Joe Pemberton,,Fab21,O-6349,O-6087,Deputy Director,Global Supply Chain Management
-YH Wu,吳怡璜,Fab21,O-6350,O-6087,Director,"TSMC AZ, Operations"
-TH Lin,林廷皇,Fab21,O-6351,O-6087,Director,"TSMC AZ, Operations"
-Brian Harrison ,,Fab21,O-6352,O-6087,SVP,"TSMC AZ, Operations"
-Charles Chu,,Fab21,O-6353,O-6087,Technical Director,"TSMC AZ, Operations"
-Glenn Muzyka,,Fab21,O-6354,O-6087,Director,"TSMC AZ, Operations"
-Richard Wen,,Fab21,O-6355,O-6087,Deputy Director,"TSMC AZ, Operations"
-Ruth Franklin,,Fab21,O-6356,O-6087,Director,"TSMC AZ, Operations"
-James Van Antwerp,,TSMC North America,O-6357,O-6089,Director,Account Management
-Jessica Chen,,TSMC North America,O-6358,O-6089,Director,Account Management
-Juji Harimoto,,TSMC North America,O-6359,O-6089,Director,Account Management
-Robert Chiang,,TSMC North America,O-6360,O-6089,Director,Account Management
-Takung Wang,,TSMC North America,O-6361,O-6089,Director,Account Management
-Xuan Vu,,TSMC North America,O-6362,O-6089,Director,Account Management
-Jorna Wang,,TSMC North America,O-6363,O-6089,Deputy Director,Account Managementt
-Ami Eitan,,APTS,O-6173,O-6074,Director,Advanced Packaging Technology Division
-KC Liu,劉國州,APOD,O-6174,O-6074,Director,"Advanced Packaging, Operations"
-Hsuan lee,李瑄,APOD,O-6175,O-6074,Deputy Director,"Advanced Packaging, Operations"
-Lien WC,練文正,APOD,O-6176,O-6074,Director,"Advanced Packaging, Operations"
-CS Liu,劉重希,APOD,O-6177,O-6074,Director,"Advanced Packaging, Operations"
-KH Lee,李錦興,APOD,O-6178,O-6074,Senior Director,"Advanced Packaging, Operations"
-Macan Shen,沈志恒,APOD,O-6179,O-6074,Deputy Director,"Advanced Packaging, Operations"
-Jason Chien,簡忠信,APOD,O-6180,O-6074,Deputy Director,"Advanced Packaging, Operations"
-Kathy Yan,言偉,APOD,O-6181,O-6074,Director,"Advanced Packaging, Operations"
-Ching-Hui Chen,陈清晖,APOD,O-6182,O-6074,Deputy Director,"Advanced Packaging, Operations"
-Shin-Puu Jeng,鄭心圃,APTS NTM,O-6183,O-6074,Director,"Advanced Packaging, Technology"
-WA Wong,翁武安,SoIC Operations,O-6184,O-6074,Deputy Director,"Advanced Packaging, Operations"
-CH Chen,陳承先,SoIC Operations,O-6185,O-6074,Director,"Advanced Packaging, Operations"
-HW Lin,林胡偉,SoIC Operations,O-6186,O-6074,Deputy Director,"Advanced Packaging, Operations"
-WM Chen,陳文明,SoIC Operations,O-6187,O-6074,Deputy Director,"Advanced Packaging, Operations"
-"Paul, B.C. Chen",,SoIC Operations,O-6188,O-6074,Deputy Director,"Advanced Packaging, Operations"
-Shan Gao,高山,APTS,O-6189,O-6074,Director,"Advanced Packaging, Technology"
-Shan Gao,,APTS,O-6190,O-6074,Deputy Director,"Advanced Packaging, Technology"
-Dennis Yang,楊斐杰,TOPD,O-6191,O-6074,Director,"Advanced Testing, Operations"
-Chingpin Lin,,BPQRD,O-6192,O-6074,Deputy Director,Backend Quality and Reliability Solutions
-Y Chang,張澐,QRFA,O-6193,O-6074,Director,QR and Failure Analysis
-YT Lin,林裕庭,QRFA,O-6194,O-6074,Deputy Director,QR and Failure Analysis
-WT Chien,簡維廷,Q&R,O-6195,O-6074,Director,QR and Failure Analysis
-B. Kiang,江浩然,QRQS,O-6196,O-6074,Director,Quality and Reliability Service Division
-Ting-Pu Tai,,TOPD,O-6197,O-6074,Director,Test Methodology Development Division 
-Chender Huang ,黃傳德,APTS,O-6198,O-6074,Deputy Director,Turnkey Service Division
-Shyh-Horng Yang,楊士洪,ADTD,O-6364,O-6088,Director,"Advanced Device Technology, CRO"
-Shih-Fen Huang,黃士芬,ADTD,O-6365,O-6088,Director,"Advanced Device Technology, CRO"
-Terry Zhou,鄒覺倫,APBD,O-6366,O-6091,Director,Advanced Packaging Business Development
-C H Chen,陳傳懷,APBD,O-6367,O-6091,Director,Advanced Packaging Business Development
-Kevin Wu,,APBD,O-6368,O-6091,Director,Advanced Packaging Business Development
-Matthias Passlack,,ASTD CRO,O-6369,O-6088,Deputy Director,"Advanced Spintronics Technology, CRO"
-Lipen Yuan,袁立本,BD,O-6370,O-6091,Senior Director,Advanced Technology Business Development
-Li-Chun Peng,彭利群,SPR&D,O-6371,O-6097,Deputy Director,Analog and Sensor R&D
-John Chin,,BD,O-6372,O-6088,Director,Asia Pacific Business BD
-Michael Sun,,BD,O-6373,O-6091,Deputy Director,Automotive Platform Business Development
-Chien-Hsin Lee,李建興 ,BD,O-6374,O-6088,Senior Director,Automotive/Low Power/SiPh BD
-TORU OGAWA,,TSMC Japan,O-6375,O-6088,Director,Backend Techonology/CIS BD
-Ted Chiang,江天德,BMO,O-6376,O-6088,Director,Brand Management
-Hui-yun CHEN,,BMO,O-6377,O-6088,Director,Brand Management
-TY Yang,楊泰益,BD,O-6378,O-6088,Director,Business Development
-CC Pan,潘建仲,BD,O-6379,O-6088,Director,Business Development
-YD Wang,王耀東 ,BD,O-6380,O-6091,Director,Business Development
-PH Chen,陳培宏,BD,O-6381,O-6088,Director,Business Development
-Russel Lue,陸頌平,BD,O-6382,O-6088,Director,Business Development
-KFC,高富強,BD,O-6383,O-6088,Director,Business Development
-Jian Chen  ,,BD,O-6384,O-6088,Director,Business Development
-John Wei,,BD,O-6385,O-6088,Senior Director,Business Development
-David Chen,,BD,O-6386,O-6091,Director,Business Development
-Lawrence Chen,,BD,O-6387,O-6091,Deputy Director,Business Development
-YJ Lee,,BD,O-6388,O-6091,Director,Business Development
-Bruce Chou,,MEMS BD,O-6389,O-6091,Director,Business Development
-Alex H.M. You,,TSMC North America,O-6390,O-6089,SVP,Business Management
-Ching-Wen Cho,,TSMC North America,O-6391,O-6089,Senior Director,Business Management
-Sajiv Dalal,,TSMC North America,O-6392,O-6089,VP,Business Management
-Rose Castanares,,TSMC North America,O-6393,O-6089,VP,Business Management
-Rajiv Ramanathan,,TSMC North America,O-6394,O-6089,Director,Business Management
-Stanley Chow,,TSMC North America,O-6395,O-6089,Director,Business Management
-AnDirectorew Chuang,,BO,O-6396,O-6089,Director,"Business Operation, TSMC North America"
-Shiuh-Luen Wang,,TSMC North America,O-6397,O-6089,Director,Busniess Development
-Li-Fan Liang,,Audit,O-6398,O-6066,Senior Director,Chief Audit Executive
-James Tu,屠震,CIS,O-6399,O-6090,Director,Corporate Information Security
-Meng-Fan (Marvin) Chang ,張孟凡,CRO,O-6400,O-6088,Director,Corporate Research Office
-Edward Teng,邓凤山,CRO,O-6401,O-6088,Senior Director,Corporate Research Office
-David Hwang,黄和涌,CRO,O-6402,O-6088,Senior Director,Corporate Research Office
-Carlos H. Diaz,,CRO,O-6403,O-6088,Senior Director,Corporate Research Office
-Jeff Wu,吳志強,TCAD,O-6404,O-6088,Director,Corporate Research Office
-Difang Shyng,邢迪芳,CSV,O-6405,O-6066,Director,Customer Service
-Hubert Lin,,CSV,O-6406,O-6067,Deputy Director,Customer Service
-Jason CH Lin,,CSV,O-6407,O-6068,Deputy Director,Customer Service
-Chan-HONG CHERN,陳建宏,TSMC North America,O-6408,O-6089,Director,Design Technology
-Willy Chen,陳威利,DTPBD,O-6409,O-6088,Director,DTP Marketing
-Percy Chang,張宇恩,EBD,O-6410,O-6088,Director,Emerging Business Development
-CM Lin,林振銘,BD,O-6411,O-6091,Director,eNVM/MCU Platform Business Development
-Luliana Radu,,CRO,O-6412,O-6088,Director,"Exploratory Compute Device, CRO"
-Luliana Radu,,CRO,O-6413,O-6088,Director,Exploratory Logic & Quantum Computing
-Lin Tu,,TSMC North America,O-6414,O-6089,Senior Director,Finance and Administration
-Douglas Pattullo,,TSMC North America,O-6415,O-6089,Director,FTS
-Harrison Lin,,TSMC North America,O-6416,O-6089,Deputy Director,FTS
-Jay Luo ,,TSMC North America,O-6417,O-6089,Director,FTS
-Lynn Huang ,,TSMC North America,O-6418,O-6089,Deputy Director,FTS
-Philippe Jansen,,TSMC North America,O-6419,O-6089,Deputy Director,FTS
-Claire Sanderson,,GRD,O-6420,O-6094,Senior Director,Global Government Affairs
-Nicholas Montella,,GRD,O-6421,O-6094,Director ,Global Government Relationship
-Chi Yu Hunag,黃紀育,BD,O-6422,O-6088,Director,Greater China Business Development
-Mike Clinton,,TSMC North America,O-6423,O-6089,Director,High Performance SRAM R&D
-Yujun Li,李玉君,BD,O-6424,O-6091,Director,HPC Business Development
-Y. T Kuo,,BD,O-6425,O-6091,Deputy Director,HPC Business Development
-JY Chang,張進益,HR,O-6426,O-6092,Director,HR
-JH Tzeng,曾晉晧,HR,O-6427,O-6092,Deputy Director,HR
-SH Chuang,莊秀華,HR,O-6428,O-6092,Director,HR
-Lu-Ya Chang,,HR,O-6429,O-6092,Deputy Director,HR
-Chih Chong Wang,王志中,BD,O-6430,O-6091,Deputy Director,HV Business Development
-CP Lin,林震賓,IMC,O-6431,O-6098,Director,Intelligent Manufacturing Center
-SY Shen,沈香吟,IMC,O-6432,O-6098,Director,Intelligent Manufacturing Center
-JJ Pai,白峻榮,IMC,O-6433,O-6098,Deputy Director,Intelligent Manufacturing Center
-Shenggao Li,李勝高,BD,O-6434,O-6091,Director,Interconnect BD
-Mick Hsieh,謝明昌,BD,O-6435,O-6091,Deputy Director,IoT Business Development
-Simon Wang,,BD,O-6436,O-6091,Senior Director,IoT Business Development
-Jeff Bunce,,TSMC North America,O-6437,O-6089,Deputy Director,IT
-Lucas Tsai ,蔡俊彥,MDEBM,O-6438,O-6091,Director,Market Development & Emerging Business Management
-Yi-Chang Sung,,MMRPD,O-6439,O-6090,Deputy Director,Material Management and Resource Planning Division
-TJ Ke,柯宗杰,MMSCD,O-6440,O-6090,Director,Materials and Supply Chain Management
-James Chi ,,MCBD,O-6441,O-6091,Deputy Director,Mobile and Computing Busiess Development
-Jacob Chen,,TSMC North America,O-6442,O-6089,Director,MTSM
-Alfred Tseng,曾煥棋,NTPED,O-6443,O-6098,Deputy Director,New Technology Product Engineering Division
-SS Fu,傅學士,Operations,O-6444,O-6098,Director,Operations
-Qiang Fu,傅强,Operations,O-6445,O-6098,Director,Operations
-Yue Gu Lin,林俞穀,Operations,O-6446,O-6098,Director,Operations
-Li-Kong Turn,滕立功,Operations,O-6447,O-6098,Technical Director,Operations
-Lin Sha ,,R&D,O-6448,O-6097,Deputy Director,Pathfinding
-Lin Wu,吳琳,BD,O-6449,O-6091,Director,PMIC/BCD and Small Panel Display HV IC Business Development
-Daniel K. T. Kuo,郭坤臟 ,MM&P,O-6450,O-6090,Deputy Director,Procurement and Material Planning
-Wade Xiong,熊伟泽,PED,O-6451,O-6098,Deputy Director,Product Engineering Division
-TW Kuo,郭子文,PIP,O-6452,O-6090,Director,Proprietary Information Protection
-Ernest Lu ,,TSMC North America,O-6453,O-6089,Director,Regional Operations Controller
-Jie Jay Sun,,BD,O-6454,O-6091,Director,RF and Analog Business Development
-Peter Hsu,许国原,TSMC North America,O-6455,O-6089,Director,San Jose Design Center
-Bryan Hsu,,BD,O-6456,O-6091,Deputy Director,Sensor Business Development
-George Liu,劉信生,BD,O-6457,O-6091,Senior Director,Specialty Technology Business Development
-Laura Franco French,,GRD,O-6458,O-6094,Director ,State Government Relationship
-Vanessa Lee,,MMSCD,O-6459,O-6090,Director,Strategic Material and Procurenemt
-Victor Lu,,SSPD,O-6460,O-6090,Director,Strategic Sourcing and Planning
-TC Ho,何宗杰,SCM,O-6461,O-6090,Director,Supply Chain and Material Mangement 
-Harris Chu,,SCSD,O-6462,O-6090,Deputy Director,Supply Chain Solutions of Automotive IC
-Charles Chen,,MMSCD,O-6463,O-6090,Deputy Director,Supply Chain Sustainability 
-Ray Wan,萬睿洋,BD,O-6464,O-6088,Director,Taiwan Business Development
-Paul Rousseau,,TSMC North America,O-6465,O-6089,VP,TSMC North America
-Derek Lin,林春榮,R&D,O-6466,O-6097,Deputy Director,University Program
-Ker-Min Chen,陳克明,R&D,O-6467,O-6088,Deputy Director,University Program - Europe and Asia
-Alan Cheng,,Operations,O-6468,O-6098,Deputy Director,
-Alex Lu,,Operations,O-6469,O-6098,Deputy Director,
-Allan Tsai ,,Operations,O-6470,O-6098,Deputy Director,
-Fred Lai,,Operations,O-6471,O-6098,Deputy Director,
-Henry HT Chen,,Operations,O-6472,O-6098,Deputy Director,
-Tom Chen,,Operations,O-6473,O-6098,Deputy Director,
-VS Chang,,Operations,O-6474,O-6098,Deputy Director,
-YC Wu,,Operations,O-6475,O-6098,Deputy Director,
-Eiichiro Shiraki,,TSMC Japan,O-6476,O-6091,Director,
-Masaki Kusano,,TSMC Japan,O-6477,O-6091,Deputy Director,
-Changsheng Ying,,TSMC North America,O-6478,O-6089,Deputy Director,
-Diego Sanchez,,TSMC North America,O-6479,O-6089,Director,
-Donald McKenna,,TSMC North America,O-6480,O-6089,Director,
-Donna E. Haas,,TSMC North America,O-6481,O-6089,Director,
-Joseph Hu,,TSMC North America,O-6482,O-6089,Deputy Director,
-Kenneth Mikami ,,TSMC North America,O-6483,O-6089,Director,
-Kevin Yu,,TSMC North America,O-6484,O-6089,Director,
-Rachid Salik,,TSMC North America,O-6485,O-6089,Director,
-Ravi Sundaresan,,TSMC North America,O-6486,O-6089,Director,
-Sandeep Kumar Goel,,TSMC North America,O-6487,O-6089,Director,
-Tom Lee,,TSMC North America,O-6488,O-6089,Deputy Director,
-Robert Lu,,,O-6400,O-6089,Deputy Director,
+Mark Liu,劉德音,Chairman,O-1101,,Chairman,Chairman
+CC Wei,魏哲家,CEO,O-1102,O-1101,CEO,CEO
+Cliff Hou,侯永清,Europe & Asia Sales/CRO,O-1103,O-1101,Europe & Asia Sales/CRO,Europe & Asia Sales/CRO
+Kevin Zhang,張曉強,Business Development,O-1104,O-1101,Business Development,Business Development
+Y.J. Mii,米玉傑,Research & Development,O-1105,O-1101,Research & Development,Research & Development
+Wei-Jen Lo,羅唯仁,Research & Development,O-1106,O-1101,Research & Development,Research & Development
+Y.P. Chin,秦永沛,Operations,O-1107,O-1101,Operations,Operations
+J.K. Lin,林錦坤,Information Technology and Materials Management & Risk Management,O-1108,O-1101,Information Technology and Materials Management & Risk Management,Information Technology and Materials Management & Risk Management
+Lora Ho,何麗梅,Human Resources,O-1109,O-1101,Human Resources,Human Resources
+Rick Cassidy,,"Chairman, TSMC Arizona",O-1110,O-1101,"Chairman, TSMC Arizona","Chairman, TSMC Arizona"
+Simon Jang,章勳明,Advanced Tool and Module Development,O-1111,O-1106,Advanced Tool and Module Development,Advanced Tool and Module Development
+TS Chang,張宗生,Advanced Technology and Mask Engineering,O-1112,O-1107,Advanced Technology and Mask Engineering,Advanced Technology and Mask Engineering
+Min Cao,曹敏,Pathfinding,O-1113,O-1105,Pathfinding,Pathfinding
+Geoffrey Yeap,葉主輝,Platform Deveopment,O-1114,O-1105,Platform Deveopment,Platform Deveopment
+Michael Wu,吳顯揚,Platform Deveopment,O-1115,O-1105,Platform Deveopment,Platform Deveopment
+L.C. Lu,魯立忠,DTP,O-1116,O-1105,DTP,DTP
+Chue San Yoo,游秋山,More-than-Moore Technologies,O-1117,O-1106,More-than-Moore Technologies,More-than-Moore Technologies
+Doug Yu,余振華,Pathfinding for System Integration,O-1118,O-1105,Pathfinding for System Integration,Pathfinding for System Integration
+K.C. Hsu,徐國晉,Integrated Interconnect & Packaging R&D,O-1119,O-1107,Integrated Interconnect & Packaging R&D,Integrated Interconnect & Packaging R&D
+Jun He,何軍,Backend Operations/Quality and Reliability,O-1120,O-1107,Backend Operations/Quality and Reliability,Backend Operations/Quality and Reliability
+Tsung Kuo,,Wafertech,O-1121,O-1107,Wafertech,Wafertech
+Y.H. Liaw,廖永豪,Operations,O-1122,O-1107,Operations,Operations
+Y.L. Wang,王英郎,Operations,O-1123,O-1107,Operations,Operations
+CC Luo,羅鎮球,TSMC China,O-1124,O-1109,TSMC China,TSMC China
+R.P. Chuang,莊瑞萍,Operations,O-1125,O-1107,Operations,Operations
+Arthur Chuang,莊子壽,Facility,O-1126,O-1107,Facility,Facility
+Dave Keller,,TSMC North America,O-1127,O-1102,TSMC North America,TSMC North America
+Makoto Onodera,,TSMC Japan,O-1128,O-1102,TSMC Japan,TSMC Japan
+Peter Cleveland,,Government Relationship,O-1129,O-1102,Government Relationship,Government Relationship
+Maria Marced,,TSMC Europe,O-1130,O-1103,TSMC Europe,TSMC Europe
+Jonathan Lee,李俊賢,Corporate Planning Organization,O-1131,O-1108,Corporate Planning Organization,Corporate Planning Organization
+Chris Lin,林宏達,CIO,O-1132,O-1108,CIO,CIO
+Sylvia Fang,方淑華,Legal and General Counsel,O-1133,O-1102,Legal and General Counsel,Legal and General Counsel
+Wendall Huang,黃仁昭,CFO,O-1134,O-1102,CFO,CFO
+Lluis Paris,,3DFabric Alliance,O-1135,O-1116,Senior Director,OIP - 3DIC
+Christoph Heer ,,TSMC Europe,O-1136,O-1130,Senior Director,FTS
+Chien-Hsin Lee,李建興 ,BD,O-1137,O-1103,Senior Director,Automotive/Low Power/SiPh BD
+John Wei,,BD,O-1138,O-1103,Senior Director,Business Development
+YC Chao,趙應誠,CRO,O-1139,O-1103,Senior Director,Corporate Research Office
+Edward Teng,邓凤山,CRO,O-1140,O-1103,Senior Director,Corporate Research Office
+David Hwang,黄和涌,CRO,O-1141,O-1103,Senior Director,Corporate Research Office
+Carlos H. Diaz,,CRO,O-1142,O-1103,Senior Director,Corporate Research Office
+Peter Chen,陳平,TSMC China,O-1143,O-1124,VP/Director,Business Development and Operations
+Leon Chang,,OIP,O-1144,O-1116,Director,OIP Platform Development
+Kees Joosse,,TSMC Europe,O-1145,O-1130,Director,Business Development
+Frans Lux,,TSMC Europe,O-1146,O-1130,Director,Business Development
+Hennie de Weerd,,TSMC Europe,O-1147,O-1130,Director,Business Development
+Jaap Zondag,,TSMC Europe,O-1148,O-1130,Director,Business Development
+Weishi Sun,,TSMC Europe,O-1149,O-1130,Director,Business Development
+Walter Ganzevles,,TSMC Europe,O-1150,O-1130,Director,Business Development
+Shyh-Horng Yang,楊士洪,ADTD,O-1151,O-1103,Director,"Advanced Device Technology, CRO"
+Shih-Fen Huang,黃士芬,ADTD,O-1152,O-1103,Director,"Advanced Device Technology, CRO"
+John Chin,,BD,O-1153,O-1103,Director,Asia Pacific Business BD
+TORU OGAWA,,TSMC Japan,O-1154,O-1103,Director,Backend Techonology/CIS BD
+Hui-yun CHEN,,BMO,O-1155,O-1103,Director,Brand Management
+TY Yang,楊泰益,BD,O-1156,O-1103,Director,Business Development
+CC Pan,潘建仲,BD,O-1157,O-1103,Director,Business Development
+PH Chen,陳培宏,BD,O-1158,O-1103,Director,Business Development
+Russel Lue,陸頌平,BD,O-1159,O-1103,Director,Business Development
+KFC,高富強,BD,O-1160,O-1103,Director,Business Development
+Jian Chen  ,陳建,BD,O-1161,O-1103,Director,Business Development
+Meng-Fan (Marvin) Chang ,張孟凡,CRO,O-1162,O-1103,Director,Corporate Research Office
+Jeff Wu,吳志強,TCAD,O-1163,O-1103,Director,Corporate Research Office
+Willy Chen,陳威利,DTPBD,O-1164,O-1103,Director,DTP Marketing
+Percy Chang,張宇恩,EBD,O-1165,O-1103,Director,Emerging Business Development
+Luliana Radu,,CRO,O-1166,O-1103,Director,"Exploratory Compute Device, CRO"
+Luliana Radu,,CRO,O-1167,O-1103,Director,Exploratory Logic & Quantum Computing
+Chi Yu Hunag,黃紀育,BD,O-1168,O-1103,Director,Greater China Business Development
+Ted Chiang,江天德,Operations,O-1169,O-1103,Director,Human Resources and Partnerships
+Ray Wan,萬睿洋,BD,O-1170,O-1103,Director,Taiwan Business Development
+Yoyo Kong,孔玲,TSMC China,O-1171,O-1124,Deputy Director,Business Development
+Mark van Dal,,TSMC Europe,O-1172,O-1130,Deputy Director,Business Development
+Brian Lin,,TSMC Europe,O-1173,O-1130,Deputy Director,Business Development
+Matthias Passlack,,ASTD CRO,O-1174,O-1103,Deputy Director,"Advanced Spintronics Technology, CRO"
+Ker-Min Chen,陳克明,R&D,O-1175,O-1103,Deputy Director,University Program - Europe and Asia
+Ching-Wen Cho,,TSMC North America,O-1176,O-1127,Senior Director,Business Management
+Lin Tu,,TSMC North America,O-1177,O-1127,Senior Director,Finance and Administration
+Sajiv Dalal,,TSMC North America,O-1178,O-1127,VP/Director,Business Management
+Rose Castanares,,TSMC North America,O-1179,O-1127,VP/Director,Business Management
+Paul Rousseau,,TSMC North America,O-1180,O-1127,VP/Director,TSMC North America
+James Van Antwerp,,TSMC North America,O-1181,O-1127,Director,Account Management
+Jessica Chen,,TSMC North America,O-1182,O-1127,Director,Account Management
+Juji Harimoto,,TSMC North America,O-1183,O-1127,Director,Account Management
+Robert Chiang,,TSMC North America,O-1184,O-1127,Director,Account Management
+Takung Wang,,TSMC North America,O-1185,O-1127,Director,Account Management
+Xuan Vu,,TSMC North America,O-1186,O-1127,Director,Account Management
+Michael Chang,張振涼,TSMC North America,O-1187,O-1127,Director,Advanced Technology Solutions
+Steven Schulman,,TSMC North America,O-1188,O-1127,Director,Business Infrastructure and Legal 
+Rajiv Ramanathan,,TSMC North America,O-1189,O-1127,Director,Business Management
+Stanley Chow,,TSMC North America,O-1190,O-1127,Director,Business Management
+Andrew Chuang,,TSMC North America,O-1191,O-1127,Director,Business Operation
+Shiuh-Luen Wang,,TSMC North America,O-1192,O-1127,Director,Busniess Development
+Douglas Pattullo,,TSMC North America,O-1193,O-1127,Director,FTS
+Jay Luo ,,TSMC North America,O-1194,O-1127,Director,FTS
+Jacob Chen,,TSMC North America,O-1195,O-1127,Director,FTS
+Ernest Lu ,,TSMC North America,O-1196,O-1127,Director,Regional Operations Controller
+Amrik Sandhu,,TSMC North America,O-1197,O-1127,Director,Sales and Marketing
+Diego Sanchez,,TSMC North America,O-1198,O-1127,Director,TSMC North America
+Donald McKenna,,TSMC North America,O-1199,O-1127,Director,TSMC North America
+Donna E. Haas,,TSMC North America,O-1200,O-1127,Director,TSMC North America
+Kenneth Mikami ,,TSMC North America,O-1201,O-1127,Director,TSMC North America
+Kevin Yu,,TSMC North America,O-1202,O-1127,Director,TSMC North America
+Rachid Salik,,TSMC North America,O-1203,O-1127,Director,TSMC North America
+Ravi Sundaresan,,TSMC North America,O-1204,O-1127,Director,TSMC North America
+Sandeep Kumar Goel,,TSMC North America,O-1205,O-1127,Director,TSMC North America
+Jorna Wang,,TSMC North America,O-1206,O-1127,Deputy Director,Account Managementt
+Harrison Lin,,TSMC North America,O-1207,O-1127,Deputy Director,FTS
+Lynn Huang ,,TSMC North America,O-1208,O-1127,Deputy Director,FTS
+Philippe Jansen,,TSMC North America,O-1209,O-1127,Deputy Director,FTS
+Jeff Bunce,,TSMC North America,O-1210,O-1127,Deputy Director,IT
+Changsheng Ying,,TSMC North America,O-1211,O-1127,Deputy Director,TSMC North America
+Joseph Hu,,TSMC North America,O-1212,O-1127,Deputy Director,TSMC North America
+Tom Lee,,TSMC North America,O-1213,O-1127,Deputy Director,TSMC North America
+Alex H.M. You,,TSMC North America,O-1214,O-1127,SVP/Senior Director,Business Management
+Wen-Yao Chen,陳文耀,ITTD,O-1215,O-1132,Senior Director,Techincal system integration
+Wilson Hsu,,BDAD,O-1216,O-1132,Director,Big Data Analytics 
+Winnie Lu,盧玟如,BSID,O-1217,O-1132,Director,Business System Integration
+HC Hsieh,謝慧杰,TSID,O-1218,O-1132,Director,Techincal system integration
+CH Wu,吳俊宏,TSID,O-1219,O-1132,Director,Techincal system integration
+Sharon (Shu-Lan) Ying,應淑蘭,BO,O-1220,O-1131,Director,Business Operations
+Edwin Liou,,BPI,O-1221,O-1131,Director,Business Process Integration 
+Jason Wang,,BPID,O-1222,O-1131,Director,Business Process Integration 
+James Yang ,,ORP,O-1223,O-1131,Director,Operations Resources Planning
+CW Wang,王仲文,Strategic Planning,O-1224,O-1131,Director,Strategic Planning
+James Tu,屠震,CIS,O-1225,O-1108,Director,Corporate Information Security
+Li-Fan (John) Liang,,ISD,O-1226,O-1108,Director,Information Security
+TJ Ke,柯宗杰,MMSCD,O-1227,O-1108,Director,Materials and Supply Chain Management
+TW Kuo,郭子文,PIP,O-1228,O-1108,Director,Proprietary Information Protection
+Vanessa Lee,,MMSCD,O-1229,O-1108,Director,Strategic Material and Procurenemt
+Victor Lu,,SSPD,O-1230,O-1108,Director,Strategic Sourcing and Planning
+TC Ho,何宗杰,SCM,O-1231,O-1108,Director,Supply Chain and Material Mangement 
+Wenping Shen,沈文冰,AAID,O-1232,O-1132,Deputy Director,AI Application Integration 
+Shou-Wen Chen,陈守文,AAID,O-1233,O-1132,Deputy Director,AI Application Integration 
+Drank Lin,林均彥,BSID,O-1234,O-1132,Deputy Director,Business System Integration
+Scott Y.,游志源,BSID,O-1235,O-1132,Deputy Director,Business System Integration
+Harry Teng,,CIO Office,O-1236,O-1132,Deputy Director,CIO Office
+Patrick Liu,劉培欣,ICSD,O-1237,O-1132,Deputy Director,Information Construction and Service
+Felix Wu,,ICSD ,O-1238,O-1132,Deputy Director,Information Construction and Service
+Robert Chien,簡明正,TSID,O-1239,O-1132,Deputy Director,Techincal System Integration
+Will Hsu,,CPO,O-1240,O-1131,Deputy Director,Business Intelligence Solutions  
+TY Liu,,BO,O-1241,O-1131,Deputy Director,Business Operations
+Jiann Liu ,,CDOD,O-1242,O-1131,Deputy Director,Corporate Development Office
+Candice Yu,,CPD,O-1243,O-1131,Deputy Director,Corporate Pricing 
+Kevin TC,,CPD,O-1244,O-1131,Deputy Director,Corporate Pricing 
+Rick P.,,ORP,O-1245,O-1131,Deputy Director,Operations Resources Planning
+PE Chen,,PPD,O-1246,O-1131,Deputy Director,Production Planning
+Sean Ying,應士豪,SAFD,O-1247,O-1131,Deputy Director,Strategic Analysis and Forecast 
+Robert Lu,呂宗俊,Marketing,O-1248,O-1131,Deputy Director,Strategic Planning
+Eric T,,SPD,O-1249,O-1131,Deputy Director,Strategic Planning
+Yc Weng,,Strategic Planning,O-1250,O-1131,Deputy Director,Strategic Planning
+,陳國清,DMPD,O-1251,O-1108,Deputy Director,Direct Material Procurement and Management
+YW Hsu,許映威,ITQS,O-1252,O-1108,Deputy Director,IT Quality and Security
+TE Lin,,ITQS,O-1253,O-1108,Deputy Director,IT Quality and Security
+Yi-Chang Sung,,MMRPD,O-1254,O-1108,Deputy Director,Material Management and Resource Planning 
+Daniel K. T. Kuo,郭坤臟 ,MM&P,O-1255,O-1108,Deputy Director,Procurement and Material Planning
+Harris Chu,,SCSD,O-1256,O-1108,Deputy Director,Supply Chain Solutions of Automotive IC
+Charles Chen,,MMSCD,O-1257,O-1108,Deputy Director,Supply Chain Sustainability 
+Eric Lin,,Strategic Planning,O-1258,O-1131,​Technical Director,Strategic Planning
+George Liu,劉信生,BD,O-1259,O-1117,Senior Director,Specialty Technology Business Development
+Lipen Yuan,袁立本,BD,O-1260,O-1104,Senior Director,Advanced Technology Business Development
+Simon Wang,,BD,O-1261,O-1104,Senior Director,Business Development
+Frank Lee,李雲漢,TSMC China,O-1262,O-1116,VP/Director,DTP BD
+Terry Zhou,鄒覺倫,APBD,O-1263,O-1104,Director,Advanced Packaging Business Development
+C H Chen,陳傳懷,APBD,O-1264,O-1104,Director,Advanced Packaging Business Development
+Kevin Wu,,APBD,O-1265,O-1104,Director,Advanced Packaging Business Development
+YD Wang,王耀東 ,BD,O-1266,O-1104,Director,Business Development
+David Chen,,BD,O-1267,O-1104,Director,Business Development
+YJ Lee,,BD,O-1268,O-1104,Director,Business Development
+Bruce Chou,,MEMS BD,O-1269,O-1104,Director,Business Development
+CM Lin,林振銘,BD,O-1270,O-1104,Director,eNVM/MCU Platform Business Development
+Yujun Li,李玉君,BD,O-1271,O-1104,Director,HPC Business Development
+Shenggao Li,李勝高,BD,O-1272,O-1104,Director,Interconnect BD
+Lucas Tsai ,蔡俊彥,MDEBM,O-1273,O-1104,Director,Market Development & Emerging Business Management
+Thomas Quan,,TSMC North America,O-1274,O-1104,Director,OIP Marketing
+Lin Wu,吳琳,BD,O-1275,O-1104,Director,PMIC/BCD and Small Panel Display HV IC Business Development
+Jie Jay Sun,,BD,O-1276,O-1104,Director,RF and Analog Business Development
+Eiichiro Shiraki,,TSMC Japan,O-1277,O-1104,Director,TSMC Japan
+Michael Sun,,BD,O-1278,O-1104,Deputy Director,Automotive Platform Business Development
+Lawrence Chen,,BD,O-1279,O-1104,Deputy Director,Business Development
+Y. T Kuo,,BD,O-1280,O-1104,Deputy Director,HPC Business Development
+Chih Chong Wang,王志中,BD,O-1281,O-1104,Deputy Director,HV Business Development
+Mick Hsieh,謝明昌,BD,O-1282,O-1104,Deputy Director,IoT Business Development
+James Chi ,,MCBD,O-1283,O-1104,Deputy Director,Mobile and Computing Busiess Development
+Bryan Hsu,,BD,O-1284,O-1104,Deputy Director,Sensor Business Development
+Masaki Kusano,,TSMC Japan,O-1285,O-1104,Deputy Director,TSMC Japan
+CL Huang,黃智睦,TSMC China,O-1286,O-1124,Director,Operations
+JY Chang,張進益,HR,O-1287,O-1109,Director,HR
+SH Chuang,莊秀華,HR,O-1288,O-1109,Director,HR
+Simon Zhang,,TSMC China,O-1289,O-1124,Deputy Director,Analog/Power/Speciality Technology R&D
+Daniel Yan,,TSMC China,O-1290,O-1124,Deputy Director,Legal Council
+Jay Chen,陈杰,TSMC China,O-1291,O-1124,Deputy Director,Operations
+M.Jay Chu,朱木傑,TSMC China,O-1292,O-1124,Deputy Director,Shanghai Operations
+JH Tzeng,曾晉晧,HR,O-1293,O-1109,Deputy Director,HR
+Lu-Ya Chang,,HR,O-1294,O-1109,Deputy Director,HR
+Alishar Tamrakar,,Fab21,O-1295,O-1123,Senior Director,Business Management
+Tambo Treks,,Fab21,O-1296,O-1123,Senior Director,Business Management
+Camille Ashley,,Fab21,O-1297,O-1123,Senior Director,Business Management
+Greg Jackson,,Fab21,O-1298,O-1123,Director,Facility Operations
+Scott Holman,,Fab21,O-1299,O-1123,Director,Operations
+YH Wu,吳怡璜,Fab21,O-1300,O-1123,Director,"TSMC AZ, Operations"
+TH Lin,林廷皇,Fab21,O-1301,O-1123,Director,"TSMC AZ, Operations"
+Glenn Muzyka,,Fab21,O-1302,O-1123,Director,"TSMC AZ, Operations"
+Ruth Franklin,,Fab21,O-1303,O-1123,Director,"TSMC AZ, Operations"
+Joe Pemberton,,Fab21,O-1304,O-1123,Deputy Director,Global Supply Chain Management
+Richard Wen,,Fab21,O-1305,O-1123,Deputy Director,"TSMC AZ, Operations"
+Charles Chu,,Fab21,O-1306,O-1123,​Technical Director,"TSMC AZ, Operations"
+Brian Harrison ,,Fab21,O-1307,O-1123,SVP/Senior Director,"TSMC AZ, Operations"
+YJ Gu,辜耀進,NTD,O-1308,O-1117,Senior Director,Nanopatterning Technology 
+Laurent Tuo,,NTD,O-1309,O-1117,Senior Director,Nanopatterning Technology 
+JH Chen,陳政宏,ALAD,O-1310,O-1117,Director,Advanced Litho Application 
+Yang Jeff ,楊富吉,R&D,O-1311,O-1117,Director,Advanced Technology Research
+DN Yang,楊敦年,CISRD,O-1312,O-1117,Director,CMOS Image Sensor R&D 
+Donald Mikan,,AMDP,O-1313,O-1117,Director,High Speed Memory Design
+Ching-Yu Chang,张庆裕,NTD,O-1314,O-1117,Director,Nanopatterning Technology 
+Sandy Liao,廖思雅,R&D,O-1315,O-1113,Director,Pathfinding
+CT Lin,林仲德,R&D,O-1316,O-1113,Director,Pathfinding
+Yu-ming Lin ,林有铭,R&D,O-1317,O-1113,Director,Pathfinding
+CH Wang,王志豪,R&D,O-1318,O-1113,Director,Pathfinding
+Jin Cai,蔡劲,R&D,O-1319,O-1113,Director,Pathfinding
+James Chen,陳燕銘,R&D,O-1320,O-1113,Director,Pathfinding
+Yee-Chia Yeo,楊育佳,R&D,O-1321,O-1113,Director,"Pathfinding, Advanced Module"
+Chao-Cheng Chen,陈昭成,ATMD,O-1322,O-1111,Director,Advanced Module Process Development 
+Stock Chang,張奕斌,ATMD,O-1323,O-1111,Director,Advanced Module Process Development 
+Chi-On Chui,徐志安,ATMD,O-1324,O-1111,Director,Advanced Tool and Module Development
+Ryan Chen,陳嘉仁,ATMD,O-1325,O-1111,Director,Advanced Tool and Module Development - Etching
+Ming-Hsien Tsai,蔡銘憲,ATMD,O-1326,O-1111,Director,Advanced Tool and Module Development - Metal
+Danping Peng,彭丹平,ATMD,O-1327,O-1111,Director,Advanced Tool and Module Development - Metrology
+Xiaomeng Chen,陈晓萌,SMYED,O-1328,O-1111,Director,Specialty Module and Yield Excellence
+Julian Lee,,SMD,O-1329,O-1111,Director,Specialty Module R&D 
+Matt Yeh,叶明熙,R&D,O-1330,O-1117,Deputy Director,Advanced Technology
+Vincent S. Chang,張世勳,R&D,O-1331,O-1117,Deputy director,Advanced Technology Research
+FC Yang,楊豐誠,R&D,O-1332,O-1117,Deputy Director,Advanced Technology Research
+CC Tsai,蔡健群,R&D,O-1333,O-1117,Deputy Director,Advanced Technology Research
+Josh Wang,,R&D,O-1334,O-1117,Deputy Director,Advanced Technology Research
+Kevin Kao,,R&D,O-1335,O-1117,Deputy Director,Advanced Technology Research
+Calvin Yi-Ping Chao,趙亦平,MSRFRD,O-1336,O-1117,Deputy Director,Mixed Signal and RF Solution 
+Lu Yang,楊露,R&D,O-1337,O-1113,Deputy Director,Pathfinding
+Chung-Cheng Wu,吳忠政,R&D,O-1338,O-1113,Deputy Director,Pathfinding
+KC Chiang,江國誠 ,R&D,O-1339,O-1113,Deputy Director,Pathfinding
+KW Chen,陳科維,R&D,O-1340,O-1113,Deputy Director,Pathfinding
+KB Thei,鄭光茗,R&D ,O-1341,O-1113,Deputy Director,Pathfinding
+Pinyen Lin,林斌彥,R&D,O-1342,O-1113,Deputy Director,"Pathfinding, Advanced CMOS Technology"
+James Cui,崔骥,ATMD,O-1343,O-1111,Deputy Director,Advanced Tool and Module Development
+Huicheng Chang,張惠政,ATMD,O-1344,O-1111,Deputy Director,Advanced Tool and Module Development
+SL Pan,潘昇良,ATMD,O-1345,O-1111,Deputy Director,Advanced Tool and Module Development
+Hung Chen,陳宏,ATMD,O-1346,O-1111,Deputy Director,Advanced Tool and Module Development
+Wen-Yu Ku,顧文昱,ATMD,O-1347,O-1111,Deputy Director,Advanced Tool and Module Development - Advanced Metrology/MIE
+Sey-Ping Sun,孙诗平,ATMD,O-1348,O-1111,Deputy Director,Advanced Tool and Module Development - MEOL
+K. B. Huang,黃國賓,ATMD,O-1349,O-1111,Deputy Director,Advanced Tool and Module Development - Wet Clean
+KB Huang,黃國賓,ATMD,O-1350,O-1111,Deputy Director,Advanced Tool and Module Development - Wet Clean
+Bi-Ming Yen,嚴必明,RDPC,O-1351,O-1111,Deputy Director,R&D Process Center
+Jason Mou,牟中一,RDPC,O-1352,O-1111,Deputy Director,R&D Process Center
+Huiling Shang,尚慧玲 ,R&D,O-1353,O-1117,​Technical Director,Advanced CMOS R&D
+Clement Wann,萬幸仁,R&D,O-1354,O-1113,​Technical Director,Pathfinding
+Chewnpu Jou,周淳圤,R&D,O-1355,O-1117,Director ,SiPh R&D
+Kinya Ichikawa,,Japan 3DIC R&D,O-1356,O-1118,Senior Director,Japan 3DIC R&D
+Stefan Rusu,,ATRDD,O-1357,O-1116,Senior Director,Advanced Transistor R&D
+Kumar Lalgudi,,DFMD,O-1358,O-1116,Senior Director,"Digital Design Methodology & Flow, TSMC North America"
+Lie-Szu Juang,張麗絲,DTP,O-1359,O-1116,Senior Director,DTP
+Jonathan Chang,張琮永,EMRD,O-1360,O-1116,Senior Director,Embedded Memory R&D
+Frank JC Lee,,TSMC North America,O-1361,O-1119,VP/Director,TSMC North America
+Takuya Yasui,安井卓也,Japan Design Center,O-1362,O-1116,VP/Director,Japan Design Center
+Chris Chern,陳其賢,Japan 3DIC R&D,O-1363,O-1118,Director,Japan 3DIC R&D
+Yutong Wu,,R&D,O-1364,O-1118,Director,Pathfinding for System Integration
+MJ Lee,李明機,APIP,O-1365,O-1118,Director,System Integrations Pathfinding
+SS Lin,林學仕,N2PD,O-1366,O-1114,Director,"N2 Platform, Advanced Technology Development"
+Chien-Hao Chen,陳建豪,N2PD,O-1367,O-1114,Director,"N2 Platform, Advanced Technology Development"
+Wen-Chih Chiou,邱文智,TSVIP,O-1368,O-1119,Director,IIP
+Xiangdong Chen,陈向东,ATRDD,O-1369,O-1116,Director,Advanced Transistor R&D
+Bryan Sheffield,,TSMC North America,O-1370,O-1116,Director,Austin Design Center
+Jesse Wang,,DTP,O-1371,O-1116,Director,Design Application and Engineering
+Dan Kochpatcharin,,TSMC North America,O-1372,O-1116,Director,Design Infrastructure Management
+Yi-Kan Cheng,郑仪侃,DMDD,O-1373,O-1116,Director,Design Methodology Development DTP
+Minchang Liang,梁銘彰,DP,O-1374,O-1116,Director,Design Platform
+CT Wu,吳建德,DirectorDM,O-1375,O-1116,Director,Design Rule DTP 
+Xuegang (Gordon) Dai,,DETD,O-1376,O-1116,Director,Design Solution Exploration & Tech Benchmarking 
+Chan-HONG CHERN,陳建宏,TSMC North America,O-1377,O-1116,Director,Design Technology
+Florentin Dartu,,TSMC North America,O-1378,O-1116,Director,"EDA R&D, Austin Design Center"
+Mike Clinton,,TSMC North America,O-1379,O-1116,Director,High Performance SRAM R&D
+Koji Nii,,Japan Design Center,O-1380,O-1116,Director,Memory Soultion Japan Design Center
+Eric Soenen,,TSMC North America,O-1381,O-1116,Director,"MSD R&D, Austin Design Center"
+James Q. Deng,,TSMC North America,O-1382,O-1116,Director,Physical Design and Development
+Mei Wong,徐玫,TSMC North America,O-1383,O-1116,Director,San Jose Design Center
+Peter Hsu,许国原,TSMC North America,O-1384,O-1116,Director,San Jose Design Center
+Jhon Jhy Liaw,廖忠志,N1.4PD,O-1385,O-1115,Director,"N1.4 Platform, Advanced Technology Development"
+Danny Chiang,江木吉,N1.4PD,O-1386,O-1115,Director,"N1.4 Platform, Advanced Technology Development"
+Chih-Hao Chang,張志豪,N3PD,O-1387,O-1115,Director,N3 Platform Development
+PW Wang,王屏薇,N2PD,O-1388,O-1114,Deputy Director,"N2 Platform, Advanced Technology Development"
+MY Wang,王美勻,N2PD,O-1389,O-1114,Deputy Director,"N2 Platform, Advanced Technology Development"
+Peiren Jeng,鄭培仁,N2PD,O-1390,O-1114,Deputy Director,"N2 Platform, Advanced Technology Development"
+Chii-Ping Chen,陳啟平,N2PD,O-1391,O-1114,Deputy Director,"N2 Platform, Advanced Technology Development"
+HP Pu,普翰屏,3DIC,O-1392,O-1119,Deputy Director,IIP
+JH Chen,陳俊宏,3DIC,O-1393,O-1119,Deputy Director,IIP
+Chih-Wei Jim Chang,,3DIC,O-1394,O-1119,Deputy Director,IIP
+Jonathan Yuan,,3DICDFM,O-1395,O-1119,Deputy Director,IIP
+Shang (yun) Hou,侯上勇,TSVINT,O-1396,O-1119,Deputy Director,IIP
+JH Shieh,謝志宏,TSVIP,O-1397,O-1119,Deputy Director,IIP
+John Yeh,葉德強,TSVR&D,O-1398,O-1119,Deputy Director,IIP
+Alpha Chen,陳明發,TSV,O-1399,O-1119,Deputy Director,TSV3D integration program
+Kuo-Ji Chen,陳國基,DSDA,O-1400,O-1116,Deputy Director,Design Service (I/O/ESD)
+Wen-Hao Chen ,陳文豪,DTP,O-1401,O-1116,Deputy Director,DFM
+JJ Shih,施教仁,DTP,O-1402,O-1116,Deputy Director,DTP
+Keh-Jeng Chang,張克正,DTP R&D,O-1403,O-1116,Deputy Director,DTP
+MS Song,宋明相,IOLD,O-1404,O-1116,Deputy Director,IO Library and Engineering DTP
+Kenny Hsieh,謝正祥,MRSD,O-1405,O-1116,Deputy Director,Mixed Signal Solution 
+Jingwei Zhang,张静维,TSMC North America,O-1406,O-1116,Deputy Director,"RF, Analog and Sensor "
+Tze-Chiang Huang,黃智強,TSMC North America,O-1407,O-1116,Deputy Director,San Jose Design Center
+Jiann Tyng Tzeng,曾健庭,TMLD,O-1408,O-1116,Deputy Director,Technology/SPICE Modeling 
+JengYa Yeh,葉震亞,N1.4PD,O-1409,O-1115,Deputy Director,"N1.4 Platform, Advanced Technology Development"
+Li-Chun Peng,彭利群,SPR&D,O-1410,O-1105,Deputy Director,Analog and Sensor R&D
+Lin Sha ,,R&D,O-1411,O-1105,Deputy Director,Pathfinding
+Derek Lin,林春榮,R&D,O-1412,O-1105,Deputy Director,University Program
+Chuei-Tang Wang,王垂堂,SIPRDD,O-1413,O-1118,​Technical Director,Silicon in Package R&D
+Kuo-Chung Yee ,余國寵,R&D,O-1414,O-1118,Director ,Pathfinding/System Integration
+Lj Tyan,田麗鈞,LDED,O-1415,O-1116,Director ,Layout Design Engineering DTP
+KH Lee,李錦興,APOD,O-1416,O-1120,Senior Director,"Advanced Packaging, Operations"
+Hsiao-Chin Tuan,段孝勤,APSTD,O-1417,O-1112,Senior Director,Analog Power Specialty Technology Development
+Yutaka Emoto,,Japan 3DIC R&D,O-1418,O-1107,VP/Director,Japan 3DIC R&D
+HW Fang,房漢文,ESHMD,O-1419,O-1126,Director,ESH
+Amy C.,陳敏,TSMC China,O-1420,O-1124,Director,FTS
+JF Jeng,鄭吉峰,TSMC China,O-1421,O-1124,Director,Quality & Reliability
+KC Liu,劉國州,APOD,O-1422,O-1120,Director,"Advanced Packaging, Operations"
+Lien WC,練文正,APOD,O-1423,O-1120,Director,"Advanced Packaging, Operations"
+CS Liu,劉重希,APOD,O-1424,O-1120,Director,"Advanced Packaging, Operations"
+Kathy Yan,言偉,APOD,O-1425,O-1120,Director,"Advanced Packaging, Operations"
+YF Huang,黃裕峰,APOD,O-1426,O-1120,Director,"Advanced Packaging, Operations"
+WM Chen,陳文明,SoIC Operations,O-1427,O-1120,Director,"Advanced Packaging, Operations"
+CH Chen,陳承先,SoIC Operations,O-1428,O-1120,Director,"Advanced Packaging, Operations"
+Shan Gao,高山,APTS,O-1429,O-1120,Director,"Advanced Packaging, Technology"
+Ami Eitan,,APTS,O-1430,O-1120,Director,"Advanced Packaging, Technology"
+Shin-Puu Jeng,鄭心圃,APTS NTM,O-1431,O-1120,Director,"Advanced Packaging, Technology"
+Dennis Yang,楊斐杰,TOPD,O-1432,O-1120,Director,"Advanced Testing, Operations"
+Y Chang,張澐,QRFA,O-1433,O-1120,Director,QR and Failure Analysis
+WT Chien,簡維廷,QRQS,O-1434,O-1120,Director,Quality and Reliability Service 
+B. Kiang,江浩然,QRQS,O-1435,O-1120,Director,Quality and Reliability Service 
+Ting-Pu Tai,,TOPD,O-1436,O-1120,Director,Test Methodology Development  
+JS Lu,呂金盛 ,Fab14A,O-1437,O-1125,Director,"Fab14A, Operations"
+YY Lee,李曜宇,Fab14A,O-1438,O-1125,Director,"Fab14A, Operations"
+HJ Chen,陳信吉,Fab14A,O-1439,O-1125,Director,"Fab14A, Operations"
+HD Yang,楊懷德,Fab14B,O-1440,O-1125,Director,"Fab14B, Operations"
+CH Su,蘇慶煌,Fab14B,O-1441,O-1125,Director,"Fab14B, Operations"
+SA Wu,吳斯安,Fab15A,O-1442,O-1125,Director,"Fab15A, Operations"
+Wei Zhang,張偉,Fab15B,O-1443,O-1125,Director,"Fab15B, Operations"
+BJ Su,蘇斌嘉,Fab15B,O-1444,O-1125,Director,"Fab15B, Operations"
+YG Huang,黃遠國,Fab18B,O-1445,O-1125,Director,"Fab18B, Operations"
+John Lin,林進祥,ALAD,O-1446,O-1112,Director,Advanced Litho Application 
+CHUN CHENG HUNG,,ATME,O-1447,O-1112,Director,Advanced Technology and Mask Engineering
+KAZUAKI HASHIMOTO,,TSMC Japan,O-1448,O-1112,Director,CMOS Image Sensor 
+Jerry Chen,陳枝城,ULLPD,O-1449,O-1112,Director,ULL Platform Development
+James Walter,,Wafertech,O-1450,O-1121,Director,Facility Operations
+Tyler Dewey,,Wafertech,O-1451,O-1121,Director,MFG Oprtations
+Albert Chang,,Wafertech,O-1452,O-1121,Director,Module Oprtations
+Wayne Yeh,,Wafertech,O-1453,O-1121,Director,Operations
+Weidong Jiang,,Wafertech,O-1454,O-1121,Director,Product Engineering And Customer Services Engineering
+Max Liu,,Wafertech,O-1455,O-1121,Director,Quality and Reliability
+SY Lin,林生元,Fab12A,O-1456,O-1122,Director,"Fab12A, Operations"
+Frankie Tsai,蔡飛國,Fab12A,O-1457,O-1122,Director,"Fab12A, Operations"
+YL Hsu,許永隆,Fab12A,O-1458,O-1122,Director,"Fab12A, Operations"
+FJ Tien,田博仁,Fab12A,O-1459,O-1122,Director,"Fab12B, Operations"
+CC Chien,簡正忠,Fab2/5,O-1460,O-1122,Director,"Fab2/5, Operations"
+SH Chen,陳世雄,Fab6,O-1461,O-1122,Director,"Fab6, Operations"
+JK Wang,王錦焜,Fab8,O-1462,O-1122,Director,"Fab8, Operations"
+Hiromi Hayashida,,JASM,O-1463,O-1122,Director,Human Resources and Partnerships
+MT Chen,陳明德,NMC,O-1464,O-1122,Director,Nano-Materials Center
+Tse-En Chang,張澤恩,PED,O-1465,O-1122,Director,"Product Development, Operations"
+Ry Shiue,薛瑞雲,PED,O-1466,O-1122,Director,"Product Development, Operations"
+WJ Lin,林偉睿,PE,O-1467,O-1122,Director,Product Engineering
+Difang Shyng,邢迪芳,CSV,O-1468,O-1107,Director,Customer Service
+YJ Wang,汪業傑,IMC,O-1469,O-1107,Director,Intelligent Manufacturing Center
+CB Lin,林震賓,IMC,O-1470,O-1107,Director,Intelligent Manufacturing Center
+SY Shen,沈香吟,IMC,O-1471,O-1107,Director,Intelligent Manufacturing Center
+SS Fu,傅學士,Operations,O-1472,O-1107,Director,Operations
+Qiang Fu,傅强,Operations,O-1473,O-1107,Director,Operations
+Yue Gu Lin,林俞穀,Operations,O-1474,O-1107,Director,Operations
+Jui-Hua Ting,丁瑞華,FAC,O-1475,O-1126,Deputy Director,Facility Operations
+EDDY HUNG,洪永迪,FAC,O-1476,O-1126,Deputy Director,Facility Operations
+ML Lee,李明利,FAC,O-1477,O-1126,Deputy Director,Facility Operations
+TE Fan,范恩祖,FAC,O-1478,O-1126,Deputy Director,Facility Operations
+Tsai Yung-Lin,蔡永霖,TSMC China,O-1479,O-1124,Deputy Director,Facility Operations
+Even H.,韩晓峰,TSMC China,O-1480,O-1124,Deputy Director,FTS
+Hsuan lee,李瑄,APOD,O-1481,O-1120,Deputy Director,"Advanced Packaging, Operations"
+Macan Shen,沈志恒,APOD,O-1482,O-1120,Deputy Director,"Advanced Packaging, Operations"
+Jason Chien,簡忠信,APOD,O-1483,O-1120,Deputy Director,"Advanced Packaging, Operations"
+Ching-Hui Chen,陈清晖,APOD,O-1484,O-1120,Deputy Director,"Advanced Packaging, Operations"
+WA Wong,翁武安,SoIC Operations,O-1485,O-1120,Deputy Director,"Advanced Packaging, Operations"
+HW Lin,林胡偉,SoIC Operations,O-1486,O-1120,Deputy Director,"Advanced Packaging, Operations"
+"Paul, B.C. Chen",,SoIC Operations,O-1487,O-1120,Deputy Director,"Advanced Packaging, Operations"
+Shan Gao,,APTS,O-1488,O-1120,Deputy Director,"Advanced Packaging, Technology"
+Chingpin Lin,林景彬,BPQRD,O-1489,O-1120,Deputy Director,Backend Quality and Reliability Solutions
+YT Lin,林裕庭,QRFA,O-1490,O-1120,Deputy Director,QR and Failure Analysis
+Chender Huang ,黃傳德,APTS,O-1491,O-1120,Deputy Director,Turnkey Service 
+Jason Liu,劉輝堂,Fab14A,O-1492,O-1125,Deputy Director,"Fab14A, Operations"
+YY Lee,李衍儀,Fab14A,O-1493,O-1125,Deputy Director,"Fab14A, Operations"
+Yih-Yi Lee,,Fab14A,O-1494,O-1125,Deputy Director,"Fab14A, Operations"
+Ting-Chun Wang,王廷君,Fab14B,O-1495,O-1125,Deputy Director,"Fab14B, Operations"
+Boris Lin,林志清,Fab15A,O-1496,O-1125,Deputy Director,"Fab15A, Operations"
+Cheng HR,鄭祥瑞,Fab15B,O-1497,O-1125,Deputy Director,"Fab15B, Operations"
+CK Huang,,Fab15B,O-1498,O-1125,Deputy Director,"Fab15B, Operations"
+Yu ching Wang,王育青,Fab18A,O-1499,O-1125,Deputy Director,"Fab18A, Operations"
+MC Chang,張銘慶,Fab18B,O-1500,O-1125,Deputy Director,"Fab18B, Operations"
+HC Lin,林煥哲,Fab18B,O-1501,O-1125,Deputy Director,"Fab18B, Operations"
+Michael Chang,張立煒 ,Operations,O-1502,O-1125,Deputy Director,Operations
+TY Chang,張宗裕,EBOD,O-1503,O-1112,Deputy Director,Electron Beam Operations
+Wen-Hao Cheng,鄭文豪,EBOD,O-1504,O-1112,Deputy Director,Electron Beam Operations
+Vincent Lee,,EBOD,O-1505,O-1112,Deputy Director,Electron Beam Operations
+Kejun Xia,夏克俊,STPD,O-1506,O-1112,Deputy Director,Special Technology Product Development
+Swen Wang,,Wafertech,O-1507,O-1121,Deputy Director,Quality & Reliability
+JL Huang,黃玠霖,Fab12A,O-1508,O-1122,Deputy Director,"Fab12A, Operations"
+Joe Wu,吳宗禧,NMC,O-1509,O-1122,Deputy Director,Nano-Materials Center
+Alfred JY Lai,賴俊宇,PED,O-1510,O-1122,Deputy Director,"Product Development, Operations"
+Hubert Lin,,CSV,O-1511,O-1107,Deputy Director,Customer Service
+Jason CH Lin,,CSV,O-1512,O-1107,Deputy Director,Customer Service
+Mao-Chih Huang,黃楙智,IMC,O-1513,O-1107,Deputy Director,Intelligent Manufacturing Center
+JJ Pai,白峻榮,IMC,O-1514,O-1107,Deputy Director,Intelligent Manufacturing Center
+CM Yang,楊棋銘,IMC,O-1515,O-1107,Deputy Director,Intelligent Manufacturing Center
+Alfred Tseng,曾煥棋,NTPED,O-1516,O-1107,Deputy Director,New Technology Product Engineering 
+Alan Cheng,,Operations,O-1517,O-1107,Deputy Director,Operations
+Alex Lu,,Operations,O-1518,O-1107,Deputy Director,Operations
+Allan Tsai ,,Operations,O-1519,O-1107,Deputy Director,Operations
+Fred Lai,,Operations,O-1520,O-1107,Deputy Director,Operations
+HT Chen,,Operations,O-1521,O-1107,Deputy Director,Operations
+Tom Chen,,Operations,O-1522,O-1107,Deputy Director,Operations
+VS Chang,,Operations,O-1523,O-1107,Deputy Director,Operations
+YC Wu,,Operations,O-1524,O-1107,Deputy Director,Operations
+Wade Xiong,熊伟泽,PED,O-1525,O-1107,Deputy Director,Product Engineering 
+Tony Chen,陳鏘澤,FSO,O-1526,O-1126,​Technical Director,New Constructions
+BC Cheng,鄭博中,Fab18A,O-1527,O-1125,​Technical Director,"Fab18A, Operations"
+CC Chen,陳昭成,Fab18B,O-1528,O-1125,​Technical Director,"Fab18B, Operations"
+Jen Hsiang Lu,呂禎祥,Fab12B,O-1529,O-1122,​Technical Director,"Fab12B, Operations"
+MD Fan,范彧達,Fab12B,O-1530,O-1122,​Technical Director,"Fab12B, Operations"
+Clement Wann,,PE,O-1531,O-1122,​Technical Director,Product Engineering
+Li-Kong Turn,滕立功,Operations,O-1532,O-1107,​Technical Director,Operations
+Claire Sanderson,,GRD,O-1533,O-1129,Senior Director,Global Government Affairs
+Li-Fan Liang,梁立凡,Audit,O-1534,Mark Liu,Senior Director,Chief Audit Executive
+SF Kao,高雪菲,Corporate Ventures,O-1535,Mark Liu,Senior Director,Corporate Ventures
+Chao-Hsiung Wang,王昭雄,IPM,O-1536,O-1133,Director,IP Integrations
+Joseph D. ,杜維武,IPM,O-1537,O-1133,Director,IP Management
+CS Wang,王昭雄,IPM,O-1538,O-1133,Director,IP Management
+T.C. Morris Cheng,鄭子俊,C&C,O-1539,O-1133,Director,"Legal, Corporate & Compliance "
+Michael Shen,沈名揚,Legal Council,O-1540,O-1133,Director,Patent Litigation
+Mingli Weng,,FIN,O-1541,O-1134,Director,Accounting 
+CK Su,蘇志凱,IR,O-1542,O-1134,Director,Investor Relationship
+Kiyohisa Kamekawa,,TSMC Japan,O-1543,O-1128,Deputy Director,"Corporate Legal Concil, Japan"
+Nicholas Montella,,GRD,O-1544,O-1129,Director ,Global Government Relationship
+Laura Franco French,,GRD,O-1545,O-1129,Director ,State Government Relationship
